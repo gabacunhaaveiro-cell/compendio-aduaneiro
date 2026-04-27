@@ -1,7 +1,7 @@
 {
   "snapshot": "2026-04-27",
   "versao": "1.0.0",
-  "observacao": "URLs precisam ser preenchidas manualmente conforme as normas forem revisadas. Extracao automatica via regex no texto.",
+  "observacao": "URLs geradas automaticamente. planalto-direto = link direto e estavel; lexml = pagina LexML que resolve para a versao oficial; sijut2-busca = busca direta no SIJUT2 da RFB; mdic-busca = pagina geral MDIC (achar a resolucao na lista); google-busca = pesquisa web; desconhecido = sem padrao automatico (revisar manualmente). Entrada Lei-37/1966 removida (era falso positivo do extrator de normas; o ato correto e Decreto-Lei-37/1966 que esta presente).",
   "normas": [
     {
       "id": "CF-1988",
@@ -10,12 +10,14 @@
       "ano": "",
       "titulo_curto": "Constituição Federal de 1988",
       "apelido": "cf/88",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
       "citada_em": [
         "importacao/tributos-incidentes-na-importacao/1-2-imposto-de-importacao-ii",
         "importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados",
         "importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Constituição Federal de 1988"
     },
     {
       "id": "Decreto-70.235/1972",
@@ -24,10 +26,12 @@
       "ano": "1972",
       "titulo_curto": "Decreto nº 70.235/1972",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1972;70235",
       "citada_em": [
         "importacao/revisao-aduaneira-pos-desembaraco/8-4-procedimento"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Decreto nº 70.235/1972"
     },
     {
       "id": "Decreto-1.355/1994",
@@ -36,10 +40,12 @@
       "ano": "1994",
       "titulo_curto": "Decreto nº 1.355/1994",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1994;1355",
       "citada_em": [
         "importacao/valoracao-aduaneira/4-1-base-legal-e-acordo-de-valoracao-gattomc"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Decreto nº 1.355/1994"
     },
     {
       "id": "Decreto-1.751/1995",
@@ -48,11 +54,13 @@
       "ano": "1995",
       "titulo_curto": "Decreto nº 1.751/1995",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1995;1751",
       "citada_em": [
         "importacao/antidumping-e-medidas-de-defesa-comercial/5-3-medidas-de-salvaguarda",
         "importacao/antidumping-e-medidas-de-defesa-comercial/5-4-medidas-compensatorias-antisubsidio"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Decreto nº 1.751/1995"
     },
     {
       "id": "Decreto-6.306/2007",
@@ -61,10 +69,12 @@
       "ano": "2007",
       "titulo_curto": "Decreto 6.306/2007",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6306.htm",
       "citada_em": [
         "importacao/tributos-incidentes-na-importacao/1-6-iof-imposto-sobre-operacoes-financeiras"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Decreto nº 6.306/2007 (Regulamento do IOF)"
     },
     {
       "id": "Decreto-6.759/2009",
@@ -73,7 +83,7 @@
       "ano": "2009",
       "titulo_curto": "Decreto nº 6.759/2009",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6759.htm",
       "citada_em": [
         "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais",
         "importacao/procedimentos-de-importacao/1-2-licenciamento-de-importacao-li",
@@ -88,7 +98,9 @@
         "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos",
         "importacao/revisao-aduaneira-pos-desembaraco/8-1-conceito-e-base-legal",
         "importacao/modalidades-especiais-de-importacao/9-4-importacao-de-amostras-sem-valor-comercial"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Decreto nº 6.759/2009 (Regulamento Aduaneiro)"
     },
     {
       "id": "Decreto-8.058/2013",
@@ -97,11 +109,13 @@
       "ano": "2013",
       "titulo_curto": "Decreto nº 8.058/2013",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2013;8058",
       "citada_em": [
         "importacao/antidumping-e-medidas-de-defesa-comercial/5-1-conceito-de-dumping",
         "importacao/antidumping-e-medidas-de-defesa-comercial/5-4-medidas-compensatorias-antisubsidio"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Decreto nº 8.058/2013"
     },
     {
       "id": "Decreto-11.158/2022",
@@ -110,11 +124,13 @@
       "ano": "2022",
       "titulo_curto": "Decreto nº 11.158/2022 (TIPI)",
       "apelido": "tipi",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11158.htm",
       "citada_em": [
         "importacao/classificacao-fiscal-e-tributacao/7-1-classificacao-fiscal-de-mercadorias-ncm",
         "importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Decreto nº 11.158/2022 (TIPI)"
     },
     {
       "id": "Decreto-Lei-37/1966",
@@ -123,13 +139,15 @@
       "ano": "1966",
       "titulo_curto": "Decreto-Lei nº 37/1966",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0037.htm",
       "citada_em": [
         "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais",
         "importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback",
         "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
         "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Decreto-Lei nº 37/1966 (Imposto de Importação)"
     },
     {
       "id": "Decreto-Lei-288/1967",
@@ -138,10 +156,12 @@
       "ano": "1967",
       "titulo_curto": "Decreto-Lei nº 288/1967",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto.lei:1967;288",
       "citada_em": [
         "importacao/zonas-francas-e-areas-especiais/6-1-zona-franca-de-manaus-zfm"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Decreto-Lei nº 288/1967"
     },
     {
       "id": "Decreto-Lei-857/1969",
@@ -150,10 +170,12 @@
       "ano": "1969",
       "titulo_curto": "Decreto-Lei nº 857/1969",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto.lei:1969;857",
       "citada_em": [
         "importacao/controle-cambial-na-importacao/6-1-base-legal"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Decreto-Lei nº 857/1969"
     },
     {
       "id": "IN-RFB-1.059/2010",
@@ -162,10 +184,12 @@
       "ano": "2010",
       "titulo_curto": "IN RFB nº 1.059/2010",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=1059&ano_ato=2010&tipoData=2&p=1",
       "citada_em": [
         "importacao/modalidades-especiais-de-importacao/9-2-importacao-de-bagagem"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN RFB nº 1.059/2010"
     },
     {
       "id": "IN-RFB-1.603/2015",
@@ -174,10 +198,12 @@
       "ano": "2015",
       "titulo_curto": "IN RFB nº 1.603/2015",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=1603&ano_ato=2015&tipoData=2&p=1",
       "citada_em": [
         "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN RFB nº 1.603/2015"
     },
     {
       "id": "IN-RFB-1.737/2017",
@@ -186,10 +212,12 @@
       "ano": "2017",
       "titulo_curto": "IN RFB nº 1.737/2017",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=1737&ano_ato=2017&tipoData=2&p=1",
       "citada_em": [
         "importacao/modalidades-especiais-de-importacao/9-3-remessas-postais-e-encomendas-internacionais"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN RFB nº 1.737/2017"
     },
     {
       "id": "IN-RFB-1.901/2019",
@@ -198,10 +226,12 @@
       "ano": "2019",
       "titulo_curto": "IN RFB nº 1.901/2019",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=1901&ano_ato=2019&tipoData=2&p=1",
       "citada_em": [
         "importacao/modalidades-especiais-de-importacao/9-3-remessas-postais-e-encomendas-internacionais"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN RFB nº 1.901/2019"
     },
     {
       "id": "IN-SRF-225/2002",
@@ -210,10 +240,12 @@
       "ano": "2002",
       "titulo_curto": "IN SRF nº 225/2002",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=225&ano_ato=2002&tipoData=2&p=1",
       "citada_em": [
         "importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-1-importacao-por-conta-e-ordem-de-terceiros"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN SRF nº 225/2002"
     },
     {
       "id": "IN-SRF-285/2003",
@@ -222,10 +254,12 @@
       "ano": "2003",
       "titulo_curto": "IN SRF nº 285/2003",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=285&ano_ato=2003&tipoData=2&p=1",
       "citada_em": [
         "importacao/drawback-e-regimes-aduaneiros-especiais/5-4-admissao-temporaria"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN SRF nº 285/2003"
     },
     {
       "id": "IN-SRF-291/2003",
@@ -234,10 +268,12 @@
       "ano": "2003",
       "titulo_curto": "IN SRF nº 291/2003",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=291&ano_ato=2003&tipoData=2&p=1",
       "citada_em": [
         "importacao/drawback-e-regimes-aduaneiros-especiais/5-7-recof-regime-aduaneiro-especial-de-entreposto-indu"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN SRF nº 291/2003"
     },
     {
       "id": "IN-SRF-327/2003",
@@ -246,11 +282,13 @@
       "ano": "2003",
       "titulo_curto": "IN SRF nº 327/2003",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=327&ano_ato=2003&tipoData=2&p=1",
       "citada_em": [
         "importacao/valoracao-aduaneira/4-1-base-legal-e-acordo-de-valoracao-gattomc",
         "importacao/valoracao-aduaneira/4-5-duvida-sobre-o-valor-declarado-dva"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN SRF nº 327/2003"
     },
     {
       "id": "IN-SRF-634/2006",
@@ -259,10 +297,12 @@
       "ano": "2006",
       "titulo_curto": "IN SRF nº 634/2006",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=634&ano_ato=2006&tipoData=2&p=1",
       "citada_em": [
         "importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-2-importacao-por-encomenda"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN SRF nº 634/2006"
     },
     {
       "id": "IN-SRF-680/2006",
@@ -271,10 +311,12 @@
       "ano": "2006",
       "titulo_curto": "IN SRF nº 680/2006",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=680&ano_ato=2006&tipoData=2&p=1",
       "citada_em": [
         "importacao/despacho-de-importacao/2-1-retificacao-da-di"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "IN SRF nº 680/2006"
     },
     {
       "id": "LC-87/1996",
@@ -283,10 +325,12 @@
       "ano": "1996",
       "titulo_curto": "Lei Complementar nº 87/1996",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm",
       "citada_em": [
         "importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Lei Complementar nº 87/1996 (Lei Kandir — ICMS)"
     },
     {
       "id": "Lei-4.131/1962",
@@ -295,10 +339,12 @@
       "ano": "1962",
       "titulo_curto": "Lei nº 4.131/1962",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1962;4131",
       "citada_em": [
         "importacao/controle-cambial-na-importacao/6-1-base-legal"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 4.131/1962"
     },
     {
       "id": "Lei-4.502/1964",
@@ -307,25 +353,12 @@
       "ano": "1964",
       "titulo_curto": "Lei 4.502/1964",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/L4502.htm",
       "citada_em": [
         "importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados"
-      ]
-    },
-    {
-      "id": "Lei-37/1966",
-      "tipo": "Lei",
-      "numero": "37",
-      "ano": "1966",
-      "titulo_curto": "Lei nº 37/1966",
-      "apelido": "",
-      "url": "",
-      "citada_em": [
-        "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais",
-        "importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback",
-        "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
-        "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Lei nº 4.502/1964 (IPI)"
     },
     {
       "id": "Lei-5.172/1966",
@@ -334,13 +367,15 @@
       "ano": "1966",
       "titulo_curto": "Lei nº 5.172/1966 (Código Tributário Nacional)",
       "apelido": "ctn",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/L5172.htm",
       "citada_em": [
         "importacao/despacho-de-importacao/2-1-retificacao-da-di",
         "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
         "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos",
         "importacao/revisao-aduaneira-pos-desembaraco/8-2-prazo"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Código Tributário Nacional (CTN)"
     },
     {
       "id": "Lei-288/1967",
@@ -349,11 +384,13 @@
       "ano": "1967",
       "titulo_curto": "Lei nº 288/1967",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1967;288",
       "citada_em": [
         "importacao/classificacao-fiscal-e-tributacao/7-3-isencoes-e-reducoes-na-importacao",
         "importacao/zonas-francas-e-areas-especiais/6-1-zona-franca-de-manaus-zfm"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 288/1967"
     },
     {
       "id": "Lei-857/1969",
@@ -362,10 +399,12 @@
       "ano": "1969",
       "titulo_curto": "Lei nº 857/1969",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1969;857",
       "citada_em": [
         "importacao/controle-cambial-na-importacao/6-1-base-legal"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 857/1969"
     },
     {
       "id": "Lei-9.430/1996",
@@ -374,12 +413,14 @@
       "ano": "1996",
       "titulo_curto": "Lei nº 9.430/1996",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/L9430.htm",
       "citada_em": [
         "importacao/drawback-e-regimes-aduaneiros-especiais/5-3-requisitos-e-obrigacoes",
         "importacao/classificacao-fiscal-e-tributacao/7-1-classificacao-fiscal-de-mercadorias-ncm",
         "importacao/casos-especificos/8-1-devolucao-de-mercadoria-ao-exterior"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Lei nº 9.430/1996"
     },
     {
       "id": "Lei-9.613/1998",
@@ -388,10 +429,12 @@
       "ano": "1998",
       "titulo_curto": "Lei nº 9.613/1998",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1998;9613",
       "citada_em": [
         "importacao/controle-cambial-na-importacao/6-6-controle-pelo-banco-central-coaf-e-lavagem-de-dinh"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 9.613/1998"
     },
     {
       "id": "Lei-10.168/2000",
@@ -400,10 +443,12 @@
       "ano": "2000",
       "titulo_curto": "Lei nº 10.168/2000",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2000;10168",
       "citada_em": [
         "importacao/modalidades-especiais-de-importacao/9-1-importacao-de-servicos"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 10.168/2000"
     },
     {
       "id": "Lei-10.865/2004",
@@ -412,11 +457,13 @@
       "ano": "2004",
       "titulo_curto": "Lei nº 10.865/2004",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.865.htm",
       "citada_em": [
         "importacao/tributos-incidentes-na-importacao/1-4-piscofins-importacao",
         "importacao/modalidades-especiais-de-importacao/9-1-importacao-de-servicos"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Lei nº 10.865/2004 (PIS/COFINS-Importação)"
     },
     {
       "id": "Lei-10.893/2004",
@@ -425,10 +472,12 @@
       "ano": "2004",
       "titulo_curto": "Lei nº 10.893/2004",
       "apelido": "",
-      "url": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.893.htm",
       "citada_em": [
         "importacao/tributos-incidentes-na-importacao/1-7-afrmm-adicional-ao-frete-para-renovacao-da-marinha"
-      ]
+      ],
+      "url_status": "planalto-direto",
+      "titulo_normativo": "Lei nº 10.893/2004 (AFRMM)"
     },
     {
       "id": "Lei-11.508/2007",
@@ -437,10 +486,12 @@
       "ano": "2007",
       "titulo_curto": "Lei nº 11.508/2007",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2007;11508",
       "citada_em": [
         "importacao/zonas-francas-e-areas-especiais/6-2-zonas-de-processamento-de-exportacao-zpe"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 11.508/2007"
     },
     {
       "id": "Lei-11.945/2009",
@@ -449,10 +500,12 @@
       "ano": "2009",
       "titulo_curto": "Lei nº 11.945/2009",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2009;11945",
       "citada_em": [
         "importacao/drawback-e-regimes-aduaneiros-especiais/5-2-modalidades-de-drawback"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 11.945/2009"
     },
     {
       "id": "Lei-12.350/2010",
@@ -461,10 +514,12 @@
       "ano": "2010",
       "titulo_curto": "Lei nº 12.350/2010",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2010;12350",
       "citada_em": [
         "importacao/drawback-e-regimes-aduaneiros-especiais/5-2-modalidades-de-drawback"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 12.350/2010"
     },
     {
       "id": "Lei-14.286/2021",
@@ -473,10 +528,12 @@
       "ano": "2021",
       "titulo_curto": "Lei nº 14.286/2021",
       "apelido": "",
-      "url": "",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2021;14286",
       "citada_em": [
         "importacao/controle-cambial-na-importacao/6-1-base-legal"
-      ]
+      ],
+      "url_status": "lexml",
+      "titulo_normativo": "Lei nº 14.286/2021"
     },
     {
       "id": "Portaria-23/2011",
@@ -485,10 +542,12 @@
       "ano": "2011",
       "titulo_curto": "Portaria SECEX nº 23/2011",
       "apelido": "",
-      "url": "",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?numero_ato=23&ano_ato=2011&tipoData=2&p=1",
       "citada_em": [
         "importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback"
-      ]
+      ],
+      "url_status": "sijut2-busca",
+      "titulo_normativo": "Portaria nº 23/2011"
     },
     {
       "id": "Resolucao-GECEX-17/2012",
@@ -497,10 +556,12 @@
       "ano": "2012",
       "titulo_curto": "Resolução CAMEX nº 17/2012",
       "apelido": "",
-      "url": "",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/camex/resolucoes-gecex",
       "citada_em": [
         "importacao/classificacao-fiscal-e-tributacao/7-2-ex-tarifario-letec-bit-e-bk"
-      ]
+      ],
+      "url_status": "mdic-busca",
+      "titulo_normativo": "Resolução GECEX nº 17/2012"
     },
     {
       "id": "Sumula-661",
@@ -509,10 +570,13 @@
       "ano": "",
       "titulo_curto": "Súmula 661",
       "apelido": "",
-      "url": "",
+      "url": "https://www.google.com/search?q=S%C3%BAmula+CARF+661",
       "citada_em": [
         "importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao"
-      ]
+      ],
+      "url_status": "google-busca",
+      "titulo_normativo": "Súmula nº 661"
     }
-  ]
+  ],
+  "data_enriquecimento": "2026-04-27"
 }
