@@ -1,0 +1,11 @@
+{
+  "snapshot": "2026-04-27",
+  "versao": "1.0.0",
+  "data_atualizacao": "2026-04-27",
+  "manuais_disponiveis": [
+    "importacao"
+  ],
+  "index_url": "index.json",
+  "legislacoes_url": "legislacoes.json",
+  "observacao": "Snapshot do compendio aduaneiro. Atualizado conforme novas versoes dos manuais."
+}

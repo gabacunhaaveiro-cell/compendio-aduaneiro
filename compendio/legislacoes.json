@@ -1,0 +1,518 @@
+{
+  "snapshot": "2026-04-27",
+  "versao": "1.0.0",
+  "observacao": "URLs precisam ser preenchidas manualmente conforme as normas forem revisadas. Extracao automatica via regex no texto.",
+  "normas": [
+    {
+      "id": "CF-1988",
+      "tipo": "CF",
+      "numero": "1988",
+      "ano": "",
+      "titulo_curto": "Constituição Federal de 1988",
+      "apelido": "cf/88",
+      "url": "",
+      "citada_em": [
+        "importacao/tributos-incidentes-na-importacao/1-2-imposto-de-importacao-ii",
+        "importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados",
+        "importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao"
+      ]
+    },
+    {
+      "id": "Decreto-70.235/1972",
+      "tipo": "Decreto",
+      "numero": "70.235",
+      "ano": "1972",
+      "titulo_curto": "Decreto nº 70.235/1972",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/revisao-aduaneira-pos-desembaraco/8-4-procedimento"
+      ]
+    },
+    {
+      "id": "Decreto-1.355/1994",
+      "tipo": "Decreto",
+      "numero": "1.355",
+      "ano": "1994",
+      "titulo_curto": "Decreto nº 1.355/1994",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/valoracao-aduaneira/4-1-base-legal-e-acordo-de-valoracao-gattomc"
+      ]
+    },
+    {
+      "id": "Decreto-1.751/1995",
+      "tipo": "Decreto",
+      "numero": "1.751",
+      "ano": "1995",
+      "titulo_curto": "Decreto nº 1.751/1995",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/antidumping-e-medidas-de-defesa-comercial/5-3-medidas-de-salvaguarda",
+        "importacao/antidumping-e-medidas-de-defesa-comercial/5-4-medidas-compensatorias-antisubsidio"
+      ]
+    },
+    {
+      "id": "Decreto-6.306/2007",
+      "tipo": "Decreto",
+      "numero": "6.306",
+      "ano": "2007",
+      "titulo_curto": "Decreto 6.306/2007",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/tributos-incidentes-na-importacao/1-6-iof-imposto-sobre-operacoes-financeiras"
+      ]
+    },
+    {
+      "id": "Decreto-6.759/2009",
+      "tipo": "Decreto",
+      "numero": "6.759",
+      "ano": "2009",
+      "titulo_curto": "Decreto nº 6.759/2009",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais",
+        "importacao/procedimentos-de-importacao/1-2-licenciamento-de-importacao-li",
+        "importacao/despacho-de-importacao/2-1-retificacao-da-di",
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-4-admissao-temporaria",
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-5-entreposto-aduaneiro",
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-6-regime-aduaneiro-especial-de-exportacao-temporaria",
+        "importacao/classificacao-fiscal-e-tributacao/7-3-isencoes-e-reducoes-na-importacao",
+        "importacao/casos-especificos/8-2-inicio-ou-retomada-do-despacho-apos-abandono",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-2-pena-de-perdimento",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos",
+        "importacao/revisao-aduaneira-pos-desembaraco/8-1-conceito-e-base-legal",
+        "importacao/modalidades-especiais-de-importacao/9-4-importacao-de-amostras-sem-valor-comercial"
+      ]
+    },
+    {
+      "id": "Decreto-8.058/2013",
+      "tipo": "Decreto",
+      "numero": "8.058",
+      "ano": "2013",
+      "titulo_curto": "Decreto nº 8.058/2013",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/antidumping-e-medidas-de-defesa-comercial/5-1-conceito-de-dumping",
+        "importacao/antidumping-e-medidas-de-defesa-comercial/5-4-medidas-compensatorias-antisubsidio"
+      ]
+    },
+    {
+      "id": "Decreto-11.158/2022",
+      "tipo": "Decreto",
+      "numero": "11.158",
+      "ano": "2022",
+      "titulo_curto": "Decreto nº 11.158/2022 (TIPI)",
+      "apelido": "tipi",
+      "url": "",
+      "citada_em": [
+        "importacao/classificacao-fiscal-e-tributacao/7-1-classificacao-fiscal-de-mercadorias-ncm",
+        "importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados"
+      ]
+    },
+    {
+      "id": "Decreto-Lei-37/1966",
+      "tipo": "Decreto-Lei",
+      "numero": "37",
+      "ano": "1966",
+      "titulo_curto": "Decreto-Lei nº 37/1966",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais",
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos"
+      ]
+    },
+    {
+      "id": "Decreto-Lei-288/1967",
+      "tipo": "Decreto-Lei",
+      "numero": "288",
+      "ano": "1967",
+      "titulo_curto": "Decreto-Lei nº 288/1967",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/zonas-francas-e-areas-especiais/6-1-zona-franca-de-manaus-zfm"
+      ]
+    },
+    {
+      "id": "Decreto-Lei-857/1969",
+      "tipo": "Decreto-Lei",
+      "numero": "857",
+      "ano": "1969",
+      "titulo_curto": "Decreto-Lei nº 857/1969",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/controle-cambial-na-importacao/6-1-base-legal"
+      ]
+    },
+    {
+      "id": "IN-RFB-1.059/2010",
+      "tipo": "IN-RFB",
+      "numero": "1.059",
+      "ano": "2010",
+      "titulo_curto": "IN RFB nº 1.059/2010",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/modalidades-especiais-de-importacao/9-2-importacao-de-bagagem"
+      ]
+    },
+    {
+      "id": "IN-RFB-1.603/2015",
+      "tipo": "IN-RFB",
+      "numero": "1.603",
+      "ano": "2015",
+      "titulo_curto": "IN RFB nº 1.603/2015",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais"
+      ]
+    },
+    {
+      "id": "IN-RFB-1.737/2017",
+      "tipo": "IN-RFB",
+      "numero": "1.737",
+      "ano": "2017",
+      "titulo_curto": "IN RFB nº 1.737/2017",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/modalidades-especiais-de-importacao/9-3-remessas-postais-e-encomendas-internacionais"
+      ]
+    },
+    {
+      "id": "IN-RFB-1.901/2019",
+      "tipo": "IN-RFB",
+      "numero": "1.901",
+      "ano": "2019",
+      "titulo_curto": "IN RFB nº 1.901/2019",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/modalidades-especiais-de-importacao/9-3-remessas-postais-e-encomendas-internacionais"
+      ]
+    },
+    {
+      "id": "IN-SRF-225/2002",
+      "tipo": "IN-SRF",
+      "numero": "225",
+      "ano": "2002",
+      "titulo_curto": "IN SRF nº 225/2002",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-1-importacao-por-conta-e-ordem-de-terceiros"
+      ]
+    },
+    {
+      "id": "IN-SRF-285/2003",
+      "tipo": "IN-SRF",
+      "numero": "285",
+      "ano": "2003",
+      "titulo_curto": "IN SRF nº 285/2003",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-4-admissao-temporaria"
+      ]
+    },
+    {
+      "id": "IN-SRF-291/2003",
+      "tipo": "IN-SRF",
+      "numero": "291",
+      "ano": "2003",
+      "titulo_curto": "IN SRF nº 291/2003",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-7-recof-regime-aduaneiro-especial-de-entreposto-indu"
+      ]
+    },
+    {
+      "id": "IN-SRF-327/2003",
+      "tipo": "IN-SRF",
+      "numero": "327",
+      "ano": "2003",
+      "titulo_curto": "IN SRF nº 327/2003",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/valoracao-aduaneira/4-1-base-legal-e-acordo-de-valoracao-gattomc",
+        "importacao/valoracao-aduaneira/4-5-duvida-sobre-o-valor-declarado-dva"
+      ]
+    },
+    {
+      "id": "IN-SRF-634/2006",
+      "tipo": "IN-SRF",
+      "numero": "634",
+      "ano": "2006",
+      "titulo_curto": "IN SRF nº 634/2006",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-2-importacao-por-encomenda"
+      ]
+    },
+    {
+      "id": "IN-SRF-680/2006",
+      "tipo": "IN-SRF",
+      "numero": "680",
+      "ano": "2006",
+      "titulo_curto": "IN SRF nº 680/2006",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/despacho-de-importacao/2-1-retificacao-da-di"
+      ]
+    },
+    {
+      "id": "LC-87/1996",
+      "tipo": "LC",
+      "numero": "87",
+      "ano": "1996",
+      "titulo_curto": "Lei Complementar nº 87/1996",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao"
+      ]
+    },
+    {
+      "id": "Lei-4.131/1962",
+      "tipo": "Lei",
+      "numero": "4.131",
+      "ano": "1962",
+      "titulo_curto": "Lei nº 4.131/1962",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/controle-cambial-na-importacao/6-1-base-legal"
+      ]
+    },
+    {
+      "id": "Lei-4.502/1964",
+      "tipo": "Lei",
+      "numero": "4.502",
+      "ano": "1964",
+      "titulo_curto": "Lei 4.502/1964",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados"
+      ]
+    },
+    {
+      "id": "Lei-37/1966",
+      "tipo": "Lei",
+      "numero": "37",
+      "ano": "1966",
+      "titulo_curto": "Lei nº 37/1966",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais",
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos"
+      ]
+    },
+    {
+      "id": "Lei-5.172/1966",
+      "tipo": "Lei",
+      "numero": "5.172",
+      "ano": "1966",
+      "titulo_curto": "Lei nº 5.172/1966 (Código Tributário Nacional)",
+      "apelido": "ctn",
+      "url": "",
+      "citada_em": [
+        "importacao/despacho-de-importacao/2-1-retificacao-da-di",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
+        "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos",
+        "importacao/revisao-aduaneira-pos-desembaraco/8-2-prazo"
+      ]
+    },
+    {
+      "id": "Lei-288/1967",
+      "tipo": "Lei",
+      "numero": "288",
+      "ano": "1967",
+      "titulo_curto": "Lei nº 288/1967",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/classificacao-fiscal-e-tributacao/7-3-isencoes-e-reducoes-na-importacao",
+        "importacao/zonas-francas-e-areas-especiais/6-1-zona-franca-de-manaus-zfm"
+      ]
+    },
+    {
+      "id": "Lei-857/1969",
+      "tipo": "Lei",
+      "numero": "857",
+      "ano": "1969",
+      "titulo_curto": "Lei nº 857/1969",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/controle-cambial-na-importacao/6-1-base-legal"
+      ]
+    },
+    {
+      "id": "Lei-9.430/1996",
+      "tipo": "Lei",
+      "numero": "9.430",
+      "ano": "1996",
+      "titulo_curto": "Lei nº 9.430/1996",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-3-requisitos-e-obrigacoes",
+        "importacao/classificacao-fiscal-e-tributacao/7-1-classificacao-fiscal-de-mercadorias-ncm",
+        "importacao/casos-especificos/8-1-devolucao-de-mercadoria-ao-exterior"
+      ]
+    },
+    {
+      "id": "Lei-9.613/1998",
+      "tipo": "Lei",
+      "numero": "9.613",
+      "ano": "1998",
+      "titulo_curto": "Lei nº 9.613/1998",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/controle-cambial-na-importacao/6-6-controle-pelo-banco-central-coaf-e-lavagem-de-dinh"
+      ]
+    },
+    {
+      "id": "Lei-10.168/2000",
+      "tipo": "Lei",
+      "numero": "10.168",
+      "ano": "2000",
+      "titulo_curto": "Lei nº 10.168/2000",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/modalidades-especiais-de-importacao/9-1-importacao-de-servicos"
+      ]
+    },
+    {
+      "id": "Lei-10.865/2004",
+      "tipo": "Lei",
+      "numero": "10.865",
+      "ano": "2004",
+      "titulo_curto": "Lei nº 10.865/2004",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/tributos-incidentes-na-importacao/1-4-piscofins-importacao",
+        "importacao/modalidades-especiais-de-importacao/9-1-importacao-de-servicos"
+      ]
+    },
+    {
+      "id": "Lei-10.893/2004",
+      "tipo": "Lei",
+      "numero": "10.893",
+      "ano": "2004",
+      "titulo_curto": "Lei nº 10.893/2004",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/tributos-incidentes-na-importacao/1-7-afrmm-adicional-ao-frete-para-renovacao-da-marinha"
+      ]
+    },
+    {
+      "id": "Lei-11.508/2007",
+      "tipo": "Lei",
+      "numero": "11.508",
+      "ano": "2007",
+      "titulo_curto": "Lei nº 11.508/2007",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/zonas-francas-e-areas-especiais/6-2-zonas-de-processamento-de-exportacao-zpe"
+      ]
+    },
+    {
+      "id": "Lei-11.945/2009",
+      "tipo": "Lei",
+      "numero": "11.945",
+      "ano": "2009",
+      "titulo_curto": "Lei nº 11.945/2009",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-2-modalidades-de-drawback"
+      ]
+    },
+    {
+      "id": "Lei-12.350/2010",
+      "tipo": "Lei",
+      "numero": "12.350",
+      "ano": "2010",
+      "titulo_curto": "Lei nº 12.350/2010",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-2-modalidades-de-drawback"
+      ]
+    },
+    {
+      "id": "Lei-14.286/2021",
+      "tipo": "Lei",
+      "numero": "14.286",
+      "ano": "2021",
+      "titulo_curto": "Lei nº 14.286/2021",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/controle-cambial-na-importacao/6-1-base-legal"
+      ]
+    },
+    {
+      "id": "Portaria-23/2011",
+      "tipo": "Portaria",
+      "numero": "23",
+      "ano": "2011",
+      "titulo_curto": "Portaria SECEX nº 23/2011",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback"
+      ]
+    },
+    {
+      "id": "Resolucao-GECEX-17/2012",
+      "tipo": "Resolucao-GECEX",
+      "numero": "17",
+      "ano": "2012",
+      "titulo_curto": "Resolução CAMEX nº 17/2012",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/classificacao-fiscal-e-tributacao/7-2-ex-tarifario-letec-bit-e-bk"
+      ]
+    },
+    {
+      "id": "Sumula-661",
+      "tipo": "Sumula",
+      "numero": "661",
+      "ano": "",
+      "titulo_curto": "Súmula 661",
+      "apelido": "",
+      "url": "",
+      "citada_em": [
+        "importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao"
+      ]
+    }
+  ]
+}
