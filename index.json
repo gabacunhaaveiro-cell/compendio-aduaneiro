@@ -1,0 +1,2925 @@
+{
+  "snapshot": "2026-04-29",
+  "versao": "1.0.0",
+  "manuais": [
+    {
+      "id": "importacao",
+      "titulo": "Manual de Importação",
+      "subtemas": 70
+    },
+    {
+      "id": "regimes-aduaneiros-especiais",
+      "titulo": "Regimes Aduaneiros Especiais",
+      "subtemas": 18
+    }
+  ],
+  "subtemas": [
+    {
+      "id": "importacao/procedimentos-de-importacao/1-1-consideracoes-gerais",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — PROCEDIMENTOS DE IMPORTAÇÃO",
+      "subtema": "1.1 Considerações Gerais",
+      "arquivo": "manuais/importacao/procedimentos-de-importacao/1-1-consideracoes-gerais.md",
+      "tags": [
+        "procedimentos-de-importacao",
+        "aduaneiro",
+        "importacao",
+        "importador",
+        "decreto",
+        "consideracoes"
+      ],
+      "palavras_chave": [
+        "aduaneiro",
+        "importacao",
+        "importador",
+        "decreto",
+        "consideracoes",
+        "gerais",
+        "despacho",
+        "procedimento",
+        "fiscal",
+        "mediante"
+      ],
+      "normas_citadas": [
+        "Lei-37/1966",
+        "Decreto-Lei-37/1966",
+        "Decreto-6.759/2009",
+        "IN-RFB-1.603/2015"
+      ]
+    },
+    {
+      "id": "importacao/procedimentos-de-importacao/1-2-licenciamento-de-importacao-li",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — PROCEDIMENTOS DE IMPORTAÇÃO",
+      "subtema": "1.2 Licenciamento de Importação (LI)",
+      "arquivo": "manuais/importacao/procedimentos-de-importacao/1-2-licenciamento-de-importacao-li.md",
+      "tags": [
+        "procedimentos-de-importacao",
+        "importacao",
+        "licenciamento",
+        "mercadoria",
+        "automatico",
+        "autoridade"
+      ],
+      "palavras_chave": [
+        "importacao",
+        "licenciamento",
+        "mercadoria",
+        "automatico",
+        "autoridade",
+        "competente",
+        "previa",
+        "operacao",
+        "sistema",
+        "obrigatorio"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "importacao/despacho-de-importacao/2-1-retificacao-da-di",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE II — DESPACHO DE IMPORTAÇÃO",
+      "subtema": "2.1 Retificação da DI",
+      "arquivo": "manuais/importacao/despacho-de-importacao/2-1-retificacao-da-di.md",
+      "tags": [
+        "despacho-de-importacao",
+        "conferencia",
+        "aduaneira",
+        "retificacao",
+        "importador",
+        "legal"
+      ],
+      "palavras_chave": [
+        "conferencia",
+        "aduaneira",
+        "retificacao",
+        "importador",
+        "legal",
+        "permitida",
+        "mediante",
+        "autorizacao",
+        "fiscal",
+        "declaracao"
+      ],
+      "normas_citadas": [
+        "IN-SRF-680/2006",
+        "Decreto-6.759/2009",
+        "Lei-5.172/1966"
+      ]
+    },
+    {
+      "id": "importacao/despacho-de-importacao/2-2-cancelamento-da-di",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE II — DESPACHO DE IMPORTAÇÃO",
+      "subtema": "2.2 Cancelamento da DI",
+      "arquivo": "manuais/importacao/despacho-de-importacao/2-2-cancelamento-da-di.md",
+      "tags": [
+        "despacho-de-importacao",
+        "cancelamento",
+        "desembaraco",
+        "determinacao",
+        "judicial",
+        "medida"
+      ],
+      "palavras_chave": [
+        "cancelamento",
+        "desembaraco",
+        "determinacao",
+        "judicial",
+        "medida",
+        "excepcional",
+        "solicitado",
+        "importador",
+        "aduaneiro",
+        "mediante"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/sistemas-aduaneiros/3-1-siscomex-importacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE III — SISTEMAS ADUANEIROS",
+      "subtema": "3.1 SISCOMEX Importação",
+      "arquivo": "manuais/importacao/sistemas-aduaneiros/3-1-siscomex-importacao.md",
+      "tags": [
+        "sistemas-aduaneiros",
+        "importacao",
+        "siscomex",
+        "registro",
+        "acompanhamento",
+        "comercio"
+      ],
+      "palavras_chave": [
+        "importacao",
+        "siscomex",
+        "registro",
+        "acompanhamento",
+        "comercio",
+        "exterior",
+        "controle",
+        "declaracao",
+        "parametrizacao",
+        "selecao"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/sistemas-aduaneiros/3-2-duimp-declaracao-unica-de-importacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE III — SISTEMAS ADUANEIROS",
+      "subtema": "3.2 DUIMP — Declaração Única de Importação",
+      "arquivo": "manuais/importacao/sistemas-aduaneiros/3-2-duimp-declaracao-unica-de-importacao.md",
+      "tags": [
+        "sistemas-aduaneiros",
+        "duimp",
+        "declaracao",
+        "importacao",
+        "comercio",
+        "exterior"
+      ],
+      "palavras_chave": [
+        "duimp",
+        "declaracao",
+        "importacao",
+        "comercio",
+        "exterior",
+        "lpco",
+        "catalogo",
+        "produtos",
+        "unica",
+        "novo"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/sistemas-aduaneiros/3-3-anexacao-eletronica-de-documentos",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE III — SISTEMAS ADUANEIROS",
+      "subtema": "3.3 Anexação Eletrônica de Documentos",
+      "arquivo": "manuais/importacao/sistemas-aduaneiros/3-3-anexacao-eletronica-de-documentos.md",
+      "tags": [
+        "sistemas-aduaneiros",
+        "documentos",
+        "aduaneiro",
+        "certificado",
+        "anexacao",
+        "eletronica"
+      ],
+      "palavras_chave": [
+        "documentos",
+        "aduaneiro",
+        "certificado",
+        "anexacao",
+        "eletronica",
+        "instrucao",
+        "despacho",
+        "anexados",
+        "eletronicamente",
+        "processo"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/valoracao-aduaneira/4-1-base-legal-e-acordo-de-valoracao-gattomc",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — VALORAÇÃO ADUANEIRA",
+      "subtema": "4.1 Base Legal e Acordo de Valoração GATT/OMC",
+      "arquivo": "manuais/importacao/valoracao-aduaneira/4-1-base-legal-e-acordo-de-valoracao-gattomc.md",
+      "tags": [
+        "valoracao-aduaneira",
+        "valoracao",
+        "base",
+        "acordo",
+        "importacao",
+        "legal"
+      ],
+      "palavras_chave": [
+        "valoracao",
+        "base",
+        "acordo",
+        "importacao",
+        "legal",
+        "gatt",
+        "aduaneira",
+        "processo",
+        "determinacao",
+        "valor"
+      ],
+      "normas_citadas": [
+        "Decreto-1.355/1994",
+        "IN-SRF-327/2003"
+      ]
+    },
+    {
+      "id": "importacao/valoracao-aduaneira/4-2-metodos-de-valoracao-ordem-de-aplicacao-obrigatori",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — VALORAÇÃO ADUANEIRA",
+      "subtema": "4.2 Métodos de Valoração (ordem de aplicação obrigatória)",
+      "arquivo": "manuais/importacao/valoracao-aduaneira/4-2-metodos-de-valoracao-ordem-de-aplicacao-obrigatori.md",
+      "tags": [
+        "valoracao-aduaneira",
+        "metodos",
+        "valoracao",
+        "ordem",
+        "aplicacao",
+        "obrigatoria"
+      ],
+      "palavras_chave": [
+        "metodos",
+        "valoracao",
+        "ordem",
+        "aplicacao",
+        "obrigatoria",
+        "acordo",
+        "preve",
+        "seis",
+        "aplicados",
+        "sequencialmente"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/valoracao-aduaneira/4-3-valor-de-transacao-condicoes-de-aceitacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — VALORAÇÃO ADUANEIRA",
+      "subtema": "4.3 Valor de Transação — Condições de Aceitação",
+      "arquivo": "manuais/importacao/valoracao-aduaneira/4-3-valor-de-transacao-condicoes-de-aceitacao.md",
+      "tags": [
+        "valoracao-aduaneira",
+        "valor",
+        "venda",
+        "transacao",
+        "condicoes",
+        "houver"
+      ],
+      "palavras_chave": [
+        "valor",
+        "venda",
+        "transacao",
+        "condicoes",
+        "houver",
+        "comprador",
+        "aceitacao",
+        "metodo",
+        "aplicado",
+        "exportacao"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/valoracao-aduaneira/4-4-ajustes-ao-valor-de-transacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — VALORAÇÃO ADUANEIRA",
+      "subtema": "4.4 Ajustes ao Valor de Transação",
+      "arquivo": "manuais/importacao/valoracao-aduaneira/4-4-ajustes-ao-valor-de-transacao.md",
+      "tags": [
+        "valoracao-aduaneira",
+        "brasil",
+        "comprador",
+        "direitos",
+        "frete",
+        "seguro"
+      ],
+      "palavras_chave": [
+        "brasil",
+        "comprador",
+        "direitos",
+        "frete",
+        "seguro",
+        "entrada",
+        "outros",
+        "ajustes",
+        "valor",
+        "transacao"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/valoracao-aduaneira/4-5-duvida-sobre-o-valor-declarado-dva",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — VALORAÇÃO ADUANEIRA",
+      "subtema": "4.5 Dúvida Sobre o Valor Declarado (DVA)",
+      "arquivo": "manuais/importacao/valoracao-aduaneira/4-5-duvida-sobre-o-valor-declarado-dva.md",
+      "tags": [
+        "valoracao-aduaneira",
+        "valor",
+        "duvida",
+        "declarado",
+        "documentacao",
+        "autoridade"
+      ],
+      "palavras_chave": [
+        "valor",
+        "duvida",
+        "declarado",
+        "documentacao",
+        "autoridade",
+        "aduaneira",
+        "tiver",
+        "motivos",
+        "fundamentados",
+        "duvidar"
+      ],
+      "normas_citadas": [
+        "IN-SRF-327/2003"
+      ]
+    },
+    {
+      "id": "importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — DRAWBACK E REGIMES ADUANEIROS ESPECIAIS",
+      "subtema": "5.1 Drawback",
+      "arquivo": "manuais/importacao/drawback-e-regimes-aduaneiros-especiais/5-1-drawback.md",
+      "tags": [
+        "drawback-e-regimes-aduaneiros-especiais",
+        "drawback",
+        "regime",
+        "aduaneiro",
+        "especial",
+        "consiste"
+      ],
+      "palavras_chave": [
+        "drawback",
+        "regime",
+        "aduaneiro",
+        "especial",
+        "consiste",
+        "suspensao",
+        "isencao",
+        "tributos",
+        "incidentes",
+        "insumos"
+      ],
+      "normas_citadas": [
+        "Lei-37/1966",
+        "Decreto-Lei-37/1966",
+        "Portaria-23/2011"
+      ]
+    },
+    {
+      "id": "importacao/drawback-e-regimes-aduaneiros-especiais/5-2-modalidades-de-drawback",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — DRAWBACK E REGIMES ADUANEIROS ESPECIAIS",
+      "subtema": "5.2 Modalidades de Drawback",
+      "arquivo": "manuais/importacao/drawback-e-regimes-aduaneiros-especiais/5-2-modalidades-de-drawback.md",
+      "tags": [
+        "drawback-e-regimes-aduaneiros-especiais",
+        "drawback",
+        "insumos",
+        "importacao",
+        "modalidade",
+        "prazo"
+      ],
+      "palavras_chave": [
+        "drawback",
+        "insumos",
+        "importacao",
+        "modalidade",
+        "prazo",
+        "isencao",
+        "tributos",
+        "reposicao",
+        "suspensao",
+        "concessao"
+      ],
+      "normas_citadas": [
+        "Lei-11.945/2009",
+        "Lei-12.350/2010"
+      ]
+    },
+    {
+      "id": "importacao/drawback-e-regimes-aduaneiros-especiais/5-3-requisitos-e-obrigacoes",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — DRAWBACK E REGIMES ADUANEIROS ESPECIAIS",
+      "subtema": "5.3 Requisitos e Obrigações",
+      "arquivo": "manuais/importacao/drawback-e-regimes-aduaneiros-especiais/5-3-requisitos-e-obrigacoes.md",
+      "tags": [
+        "drawback-e-regimes-aduaneiros-especiais",
+        "exportacao",
+        "compromisso",
+        "prazo",
+        "multa",
+        "requisitos"
+      ],
+      "palavras_chave": [
+        "exportacao",
+        "compromisso",
+        "prazo",
+        "multa",
+        "requisitos",
+        "obrigacoes",
+        "habilitacao",
+        "previa",
+        "perante",
+        "secex"
+      ],
+      "normas_citadas": [
+        "Lei-9.430/1996"
+      ]
+    },
+    {
+      "id": "importacao/drawback-e-regimes-aduaneiros-especiais/5-4-admissao-temporaria",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — DRAWBACK E REGIMES ADUANEIROS ESPECIAIS",
+      "subtema": "5.4 Admissão Temporária",
+      "arquivo": "manuais/importacao/drawback-e-regimes-aduaneiros-especiais/5-4-admissao-temporaria.md",
+      "tags": [
+        "drawback-e-regimes-aduaneiros-especiais",
+        "bens",
+        "brasil",
+        "suspensao",
+        "prazo",
+        "total"
+      ],
+      "palavras_chave": [
+        "bens",
+        "brasil",
+        "suspensao",
+        "prazo",
+        "total",
+        "parcial",
+        "tributos",
+        "utilizados",
+        "admissao",
+        "temporaria"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009",
+        "IN-SRF-285/2003"
+      ]
+    },
+    {
+      "id": "importacao/drawback-e-regimes-aduaneiros-especiais/5-5-entreposto-aduaneiro",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — DRAWBACK E REGIMES ADUANEIROS ESPECIAIS",
+      "subtema": "5.5 Entreposto Aduaneiro",
+      "arquivo": "manuais/importacao/drawback-e-regimes-aduaneiros-especiais/5-5-entreposto-aduaneiro.md",
+      "tags": [
+        "drawback-e-regimes-aduaneiros-especiais",
+        "aduaneiro",
+        "entreposto",
+        "permite",
+        "armazenamento",
+        "mercadorias"
+      ],
+      "palavras_chave": [
+        "aduaneiro",
+        "entreposto",
+        "permite",
+        "armazenamento",
+        "mercadorias",
+        "recinto",
+        "alfandegado",
+        "suspensao",
+        "pagamento",
+        "tributos"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "importacao/drawback-e-regimes-aduaneiros-especiais/5-6-regime-aduaneiro-especial-de-exportacao-temporaria",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — DRAWBACK E REGIMES ADUANEIROS ESPECIAIS",
+      "subtema": "5.6 Regime Aduaneiro Especial de Exportação Temporária",
+      "arquivo": "manuais/importacao/drawback-e-regimes-aduaneiros-especiais/5-6-regime-aduaneiro-especial-de-exportacao-temporaria.md",
+      "tags": [
+        "drawback-e-regimes-aduaneiros-especiais",
+        "aduaneiro",
+        "temporaria",
+        "bens",
+        "regime",
+        "especial"
+      ],
+      "palavras_chave": [
+        "aduaneiro",
+        "temporaria",
+        "bens",
+        "regime",
+        "especial",
+        "exportacao",
+        "permite",
+        "saida",
+        "nacionais",
+        "nacionalizados"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "importacao/drawback-e-regimes-aduaneiros-especiais/5-7-recof-regime-aduaneiro-especial-de-entreposto-indu",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — DRAWBACK E REGIMES ADUANEIROS ESPECIAIS",
+      "subtema": "5.7 RECOF — Regime Aduaneiro Especial de Entreposto Industrial",
+      "arquivo": "manuais/importacao/drawback-e-regimes-aduaneiros-especiais/5-7-recof-regime-aduaneiro-especial-de-entreposto-indu.md",
+      "tags": [
+        "drawback-e-regimes-aduaneiros-especiais",
+        "recof",
+        "regime",
+        "aduaneiro",
+        "especial",
+        "entreposto"
+      ],
+      "palavras_chave": [
+        "recof",
+        "regime",
+        "aduaneiro",
+        "especial",
+        "entreposto",
+        "industrial",
+        "destinados",
+        "controle",
+        "informatizado",
+        "permite"
+      ],
+      "normas_citadas": [
+        "IN-SRF-291/2003"
+      ]
+    },
+    {
+      "id": "importacao/controle-cambial-na-importacao/6-1-base-legal",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — CONTROLE CAMBIAL NA IMPORTAÇÃO",
+      "subtema": "6.1 Base Legal",
+      "arquivo": "manuais/importacao/controle-cambial-na-importacao/6-1-base-legal.md",
+      "tags": [
+        "controle-cambial-na-importacao",
+        "cambial",
+        "banco",
+        "central",
+        "base",
+        "legal"
+      ],
+      "palavras_chave": [
+        "cambial",
+        "banco",
+        "central",
+        "base",
+        "legal",
+        "controle",
+        "importacoes",
+        "regulado",
+        "brasil",
+        "bacen"
+      ],
+      "normas_citadas": [
+        "Lei-4.131/1962",
+        "Lei-857/1969",
+        "Lei-14.286/2021",
+        "Decreto-Lei-857/1969"
+      ]
+    },
+    {
+      "id": "importacao/controle-cambial-na-importacao/6-2-registro-da-operacao-de-cambio",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — CONTROLE CAMBIAL NA IMPORTAÇÃO",
+      "subtema": "6.2 Registro da Operação de Câmbio",
+      "arquivo": "manuais/importacao/controle-cambial-na-importacao/6-2-registro-da-operacao-de-cambio.md",
+      "tags": [
+        "controle-cambial-na-importacao",
+        "cambio",
+        "pagamento",
+        "operacao",
+        "liquidacao",
+        "registro"
+      ],
+      "palavras_chave": [
+        "cambio",
+        "pagamento",
+        "operacao",
+        "liquidacao",
+        "registro",
+        "exterior",
+        "decorrente",
+        "importacoes",
+        "realizado",
+        "intermedio"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/controle-cambial-na-importacao/6-3-pre-pagamento-de-importacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — CONTROLE CAMBIAL NA IMPORTAÇÃO",
+      "subtema": "6.3 Pré-Pagamento de Importação",
+      "arquivo": "manuais/importacao/controle-cambial-na-importacao/6-3-pre-pagamento-de-importacao.md",
+      "tags": [
+        "controle-cambial-na-importacao",
+        "pagamento",
+        "embarque",
+        "prazo",
+        "importacao",
+        "ocorre"
+      ],
+      "palavras_chave": [
+        "pagamento",
+        "embarque",
+        "prazo",
+        "importacao",
+        "ocorre",
+        "importador",
+        "efetua",
+        "mercadoria",
+        "registrado",
+        "siscomex"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/controle-cambial-na-importacao/6-4-cobertura-cambial",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — CONTROLE CAMBIAL NA IMPORTAÇÃO",
+      "subtema": "6.4 Cobertura Cambial",
+      "arquivo": "manuais/importacao/controle-cambial-na-importacao/6-4-cobertura-cambial.md",
+      "tags": [
+        "controle-cambial-na-importacao",
+        "cobertura",
+        "cambial",
+        "importacoes",
+        "regra",
+        "seja"
+      ],
+      "palavras_chave": [
+        "cobertura",
+        "cambial",
+        "importacoes",
+        "regra",
+        "seja",
+        "pagamento",
+        "exterior",
+        "comprovado",
+        "excecoes",
+        "obrigatoriedade"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/controle-cambial-na-importacao/6-5-cambio-simplificado",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — CONTROLE CAMBIAL NA IMPORTAÇÃO",
+      "subtema": "6.5 Câmbio Simplificado",
+      "arquivo": "manuais/importacao/controle-cambial-na-importacao/6-5-cambio-simplificado.md",
+      "tags": [
+        "controle-cambial-na-importacao",
+        "cambio",
+        "simplificado",
+        "operacoes",
+        "menor",
+        "valor"
+      ],
+      "palavras_chave": [
+        "cambio",
+        "simplificado",
+        "operacoes",
+        "menor",
+        "valor",
+        "resolucao",
+        "permite",
+        "dispensando",
+        "formalidades",
+        "documentais"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/controle-cambial-na-importacao/6-6-controle-pelo-banco-central-coaf-e-lavagem-de-dinh",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — CONTROLE CAMBIAL NA IMPORTAÇÃO",
+      "subtema": "6.6 Controle pelo Banco Central — COAF e Lavagem de Dinheiro",
+      "arquivo": "manuais/importacao/controle-cambial-na-importacao/6-6-controle-pelo-banco-central-coaf-e-lavagem-de-dinh.md",
+      "tags": [
+        "controle-cambial-na-importacao",
+        "coaf",
+        "controle",
+        "lavagem",
+        "dinheiro",
+        "operacoes"
+      ],
+      "palavras_chave": [
+        "coaf",
+        "controle",
+        "lavagem",
+        "dinheiro",
+        "operacoes",
+        "importacoes",
+        "financeiras",
+        "valor",
+        "banco",
+        "central"
+      ],
+      "normas_citadas": [
+        "Lei-9.613/1998"
+      ]
+    },
+    {
+      "id": "importacao/classificacao-fiscal-e-tributacao/7-1-classificacao-fiscal-de-mercadorias-ncm",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VII — CLASSIFICAÇÃO FISCAL E TRIBUTAÇÃO",
+      "subtema": "7.1 Classificação Fiscal de Mercadorias — NCM",
+      "arquivo": "manuais/importacao/classificacao-fiscal-e-tributacao/7-1-classificacao-fiscal-de-mercadorias-ncm.md",
+      "tags": [
+        "classificacao-fiscal-e-tributacao",
+        "classificacao",
+        "mercadorias",
+        "mercosul",
+        "define",
+        "aliquotas"
+      ],
+      "palavras_chave": [
+        "classificacao",
+        "mercadorias",
+        "mercosul",
+        "define",
+        "aliquotas",
+        "comum",
+        "sistema",
+        "interpretacao",
+        "fiscal",
+        "nomenclatura"
+      ],
+      "normas_citadas": [
+        "Lei-9.430/1996",
+        "Decreto-11.158/2022"
+      ]
+    },
+    {
+      "id": "importacao/classificacao-fiscal-e-tributacao/7-2-ex-tarifario-letec-bit-e-bk",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VII — CLASSIFICAÇÃO FISCAL E TRIBUTAÇÃO",
+      "subtema": "7.2 Ex-Tarifário, LETEC, BIT e BK",
+      "arquivo": "manuais/importacao/classificacao-fiscal-e-tributacao/7-2-ex-tarifario-letec-bit-e-bk.md",
+      "tags": [
+        "classificacao-fiscal-e-tributacao",
+        "nacional",
+        "bens",
+        "tarifario",
+        "letec",
+        "aliquota"
+      ],
+      "palavras_chave": [
+        "nacional",
+        "bens",
+        "tarifario",
+        "letec",
+        "aliquota",
+        "camex",
+        "aliquotas",
+        "produtos",
+        "listas",
+        "informatica"
+      ],
+      "normas_citadas": [
+        "Resolucao-GECEX-17/2012"
+      ]
+    },
+    {
+      "id": "importacao/classificacao-fiscal-e-tributacao/7-3-isencoes-e-reducoes-na-importacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VII — CLASSIFICAÇÃO FISCAL E TRIBUTAÇÃO",
+      "subtema": "7.3 Isenções e Reduções na Importação",
+      "arquivo": "manuais/importacao/classificacao-fiscal-e-tributacao/7-3-isencoes-e-reducoes-na-importacao.md",
+      "tags": [
+        "classificacao-fiscal-e-tributacao",
+        "isencao",
+        "reducoes",
+        "importacao",
+        "comerciais",
+        "isencoes"
+      ],
+      "palavras_chave": [
+        "isencao",
+        "reducoes",
+        "importacao",
+        "comerciais",
+        "isencoes",
+        "regulamento",
+        "aduaneiro",
+        "arts",
+        "legislacao",
+        "especifica"
+      ],
+      "normas_citadas": [
+        "Lei-288/1967",
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "importacao/casos-especificos/8-1-devolucao-de-mercadoria-ao-exterior",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VIII — CASOS ESPECÍFICOS",
+      "subtema": "8.1 Devolução de Mercadoria ao Exterior",
+      "arquivo": "manuais/importacao/casos-especificos/8-1-devolucao-de-mercadoria-ao-exterior.md",
+      "tags": [
+        "casos-especificos",
+        "mercadoria",
+        "exportacao",
+        "exportador",
+        "devolvida",
+        "comunicacao"
+      ],
+      "palavras_chave": [
+        "mercadoria",
+        "exportacao",
+        "exportador",
+        "devolvida",
+        "comunicacao",
+        "declaracao",
+        "tributos",
+        "devolucao",
+        "exterior",
+        "formalidades"
+      ],
+      "normas_citadas": [
+        "Lei-9.430/1996"
+      ]
+    },
+    {
+      "id": "importacao/casos-especificos/8-2-inicio-ou-retomada-do-despacho-apos-abandono",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VIII — CASOS ESPECÍFICOS",
+      "subtema": "8.2 Início ou Retomada do Despacho após Abandono",
+      "arquivo": "manuais/importacao/casos-especificos/8-2-inicio-ou-retomada-do-despacho-apos-abandono.md",
+      "tags": [
+        "casos-especificos",
+        "retomada",
+        "despacho",
+        "abandono",
+        "recinto",
+        "prazo"
+      ],
+      "palavras_chave": [
+        "retomada",
+        "despacho",
+        "abandono",
+        "recinto",
+        "prazo",
+        "dias",
+        "administrativo",
+        "inicio",
+        "importador",
+        "retomar"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — INFRAÇÕES E PENALIDADES ADUANEIRAS",
+      "subtema": "9.1 Aplicação e Graduação das Penalidades",
+      "arquivo": "manuais/importacao/infracoes-e-penalidades-aduaneiras/9-1-aplicacao-e-graduacao-das-penalidades.md",
+      "tags": [
+        "infracoes-e-penalidades-aduaneiras",
+        "penalidades",
+        "oficio",
+        "procedimento",
+        "aplicacao",
+        "decreto"
+      ],
+      "palavras_chave": [
+        "penalidades",
+        "oficio",
+        "procedimento",
+        "aplicacao",
+        "decreto",
+        "aplicadas",
+        "infracao",
+        "tributos",
+        "anos",
+        "contados"
+      ],
+      "normas_citadas": [
+        "Lei-37/1966",
+        "Decreto-Lei-37/1966",
+        "Decreto-6.759/2009",
+        "Lei-5.172/1966"
+      ]
+    },
+    {
+      "id": "importacao/infracoes-e-penalidades-aduaneiras/9-2-pena-de-perdimento",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — INFRAÇÕES E PENALIDADES ADUANEIRAS",
+      "subtema": "9.2 Pena de Perdimento",
+      "arquivo": "manuais/importacao/infracoes-e-penalidades-aduaneiras/9-2-pena-de-perdimento.md",
+      "tags": [
+        "infracoes-e-penalidades-aduaneiras",
+        "pena",
+        "perdimento",
+        "arts",
+        "penal",
+        "prazo"
+      ],
+      "palavras_chave": [
+        "pena",
+        "perdimento",
+        "arts",
+        "penal",
+        "prazo",
+        "legal",
+        "grave",
+        "sancao",
+        "aduaneira",
+        "consistindo"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "importacao/infracoes-e-penalidades-aduaneiras/9-3-quadro-resumo-de-multas-na-importacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — INFRAÇÕES E PENALIDADES ADUANEIRAS",
+      "subtema": "9.3 Quadro Resumo de Multas na Importação",
+      "arquivo": "manuais/importacao/infracoes-e-penalidades-aduaneiras/9-3-quadro-resumo-de-multas-na-importacao.md",
+      "tags": [
+        "infracoes-e-penalidades-aduaneiras",
+        "quadro",
+        "multas",
+        "resumo",
+        "importacao",
+        "carater"
+      ],
+      "palavras_chave": [
+        "quadro",
+        "multas",
+        "resumo",
+        "importacao",
+        "carater",
+        "orientativo",
+        "valores",
+        "estao",
+        "sujeitos",
+        "atualizacao"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — INFRAÇÕES E PENALIDADES ADUANEIRAS",
+      "subtema": "9.4 Recursos Administrativos",
+      "arquivo": "manuais/importacao/infracoes-e-penalidades-aduaneiras/9-4-recursos-administrativos.md",
+      "tags": [
+        "infracoes-e-penalidades-aduaneiras",
+        "recursos",
+        "penalidades",
+        "recurso",
+        "administrativo",
+        "instancia"
+      ],
+      "palavras_chave": [
+        "recursos",
+        "penalidades",
+        "recurso",
+        "administrativo",
+        "instancia",
+        "receita",
+        "federal",
+        "brasil",
+        "prazo",
+        "dias"
+      ],
+      "normas_citadas": [
+        "Lei-37/1966",
+        "Decreto-Lei-37/1966",
+        "Decreto-6.759/2009",
+        "Lei-5.172/1966"
+      ]
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-1-visao-geral-da-carga-tributaria",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.1 Visão Geral da Carga Tributária",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-1-visao-geral-da-carga-tributaria.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "cumulativa",
+        "visao",
+        "geral",
+        "carga",
+        "tributaria"
+      ],
+      "palavras_chave": [
+        "cumulativa",
+        "visao",
+        "geral",
+        "carga",
+        "tributaria",
+        "importacao",
+        "mercadorias",
+        "brasil",
+        "sujeita",
+        "conjunto"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-2-imposto-de-importacao-ii",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.2 Imposto de Importação (II)",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-2-imposto-de-importacao-ii.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "importacao",
+        "imposto",
+        "tributo",
+        "federal",
+        "maior"
+      ],
+      "palavras_chave": [
+        "importacao",
+        "imposto",
+        "tributo",
+        "federal",
+        "maior",
+        "relevancia",
+        "operacoes",
+        "funcao",
+        "predominantemente",
+        "extrafiscal"
+      ],
+      "normas_citadas": [
+        "CF-1988"
+      ]
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.3 IPI — Imposto sobre Produtos Industrializados",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-3-ipi-imposto-sobre-produtos-industrializados.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "produtos",
+        "industrializados",
+        "importacao",
+        "base",
+        "calculo"
+      ],
+      "palavras_chave": [
+        "produtos",
+        "industrializados",
+        "importacao",
+        "base",
+        "calculo",
+        "valor",
+        "aduaneiro",
+        "taxas",
+        "aliquota",
+        "tipi"
+      ],
+      "normas_citadas": [
+        "Lei-4.502/1964",
+        "CF-1988",
+        "Decreto-11.158/2022"
+      ]
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-4-piscofins-importacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.4 PIS/COFINS-Importação",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-4-piscofins-importacao.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "cofins",
+        "valor",
+        "importacao",
+        "bens",
+        "servicos"
+      ],
+      "palavras_chave": [
+        "cofins",
+        "valor",
+        "importacao",
+        "bens",
+        "servicos",
+        "aduaneiro",
+        "aliquotas",
+        "instituidas",
+        "incidem",
+        "contribuicoes"
+      ],
+      "normas_citadas": [
+        "Lei-10.865/2004"
+      ]
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.5 ICMS na Importação",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-5-icms-na-importacao.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "icms",
+        "aliquota",
+        "importacao",
+        "estado",
+        "valor"
+      ],
+      "palavras_chave": [
+        "icms",
+        "aliquota",
+        "importacao",
+        "estado",
+        "valor",
+        "importador",
+        "base",
+        "cofins",
+        "despesas",
+        "dentro"
+      ],
+      "normas_citadas": [
+        "LC-87/1996",
+        "Sumula-661",
+        "CF-1988"
+      ]
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-6-iof-imposto-sobre-operacoes-financeiras",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.6 IOF — Imposto sobre Operações Financeiras",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-6-iof-imposto-sobre-operacoes-financeiras.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "operacoes",
+        "cambio",
+        "aliquota",
+        "imposto",
+        "financeiras"
+      ],
+      "palavras_chave": [
+        "operacoes",
+        "cambio",
+        "aliquota",
+        "imposto",
+        "financeiras",
+        "incide",
+        "pagamento",
+        "importacoes",
+        "valor",
+        "operacao"
+      ],
+      "normas_citadas": [
+        "Decreto-6.306/2007"
+      ]
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-7-afrmm-adicional-ao-frete-para-renovacao-da-marinha",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.7 AFRMM — Adicional ao Frete para Renovação da Marinha Mercante",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-7-afrmm-adicional-ao-frete-para-renovacao-da-marinha.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "frete",
+        "mercante",
+        "afrmm",
+        "marinha",
+        "base"
+      ],
+      "palavras_chave": [
+        "frete",
+        "mercante",
+        "afrmm",
+        "marinha",
+        "base",
+        "aliquota",
+        "navegacao",
+        "adicional",
+        "renovacao",
+        "incide"
+      ],
+      "normas_citadas": [
+        "Lei-10.893/2004"
+      ]
+    },
+    {
+      "id": "importacao/tributos-incidentes-na-importacao/1-8-exemplo-de-calculo-simulacao-pratica",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE I — TRIBUTOS INCIDENTES NA IMPORTAÇÃO",
+      "subtema": "1.8 Exemplo de Cálculo — Simulação Prática",
+      "arquivo": "manuais/importacao/tributos-incidentes-na-importacao/1-8-exemplo-de-calculo-simulacao-pratica.md",
+      "tags": [
+        "tributos-incidentes-na-importacao",
+        "simulacao",
+        "icms",
+        "exemplo",
+        "calculo",
+        "pratica"
+      ],
+      "palavras_chave": [
+        "simulacao",
+        "icms",
+        "exemplo",
+        "calculo",
+        "pratica",
+        "mercadoria",
+        "equipamento",
+        "industrial",
+        "valor",
+        "ficticio"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/incoterms-2020/2-1-o-que-sao-os-incoterms",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE II — INCOTERMS 2020",
+      "subtema": "2.1 O que são os Incoterms",
+      "arquivo": "manuais/importacao/incoterms-2020/2-1-o-que-sao-os-incoterms.md",
+      "tags": [
+        "incoterms-2020",
+        "incoterms",
+        "comercio",
+        "internacional",
+        "termos",
+        "aplicaveis"
+      ],
+      "palavras_chave": [
+        "incoterms",
+        "comercio",
+        "internacional",
+        "termos",
+        "aplicaveis",
+        "transporte",
+        "international",
+        "commercial",
+        "terms",
+        "regras"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/incoterms-2020/2-2-tabela-dos-incoterms-2020",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE II — INCOTERMS 2020",
+      "subtema": "2.2 Tabela dos Incoterms 2020",
+      "arquivo": "manuais/importacao/incoterms-2020/2-2-tabela-dos-incoterms-2020.md",
+      "tags": [
+        "incoterms-2020",
+        "valor",
+        "base",
+        "tabela",
+        "incoterms",
+        "atencao"
+      ],
+      "palavras_chave": [
+        "valor",
+        "base",
+        "tabela",
+        "incoterms",
+        "atencao",
+        "fins",
+        "apuracao",
+        "aduaneiro",
+        "receita",
+        "federal"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/incoterms-2020/2-3-incoterms-e-o-valor-aduaneiro",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE II — INCOTERMS 2020",
+      "subtema": "2.3 Incoterms e o Valor Aduaneiro",
+      "arquivo": "manuais/importacao/incoterms-2020/2-3-incoterms-e-o-valor-aduaneiro.md",
+      "tags": [
+        "incoterms-2020",
+        "valor",
+        "aduaneiro",
+        "frete",
+        "seguro",
+        "incluidos"
+      ],
+      "palavras_chave": [
+        "valor",
+        "aduaneiro",
+        "frete",
+        "seguro",
+        "incluidos",
+        "fatura",
+        "importador",
+        "incoterms",
+        "relacao",
+        "incoterm"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/documentos-de-transporte-internacional/3-1-bill-of-lading-bl-conhecimento-de-embarque-maritim",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE III — DOCUMENTOS DE TRANSPORTE INTERNACIONAL",
+      "subtema": "3.1 Bill of Lading (BL) — Conhecimento de Embarque Marítimo",
+      "arquivo": "manuais/importacao/documentos-de-transporte-internacional/3-1-bill-of-lading-bl-conhecimento-de-embarque-maritim.md",
+      "tags": [
+        "documentos-de-transporte-internacional",
+        "emitido",
+        "mercadoria",
+        "destino",
+        "bill",
+        "embarque"
+      ],
+      "palavras_chave": [
+        "emitido",
+        "mercadoria",
+        "destino",
+        "bill",
+        "embarque",
+        "original",
+        "lading",
+        "maritimo",
+        "transporte",
+        "armador"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/documentos-de-transporte-internacional/3-2-awb-air-waybill-conhecimento-aereo",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE III — DOCUMENTOS DE TRANSPORTE INTERNACIONAL",
+      "subtema": "3.2 AWB — Air Waybill (Conhecimento Aéreo)",
+      "arquivo": "manuais/importacao/documentos-de-transporte-internacional/3-2-awb-air-waybill-conhecimento-aereo.md",
+      "tags": [
+        "documentos-de-transporte-internacional",
+        "waybill",
+        "aereo",
+        "emitido",
+        "companhia",
+        "aerea"
+      ],
+      "palavras_chave": [
+        "waybill",
+        "aereo",
+        "emitido",
+        "companhia",
+        "aerea",
+        "conhecimento",
+        "documento",
+        "transporte",
+        "modal",
+        "negociavel"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/documentos-de-transporte-internacional/3-3-crt-conhecimento-de-transporte-rodoviario-internac",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE III — DOCUMENTOS DE TRANSPORTE INTERNACIONAL",
+      "subtema": "3.3 CRT — Conhecimento de Transporte Rodoviário Internacional",
+      "arquivo": "manuais/importacao/documentos-de-transporte-internacional/3-3-crt-conhecimento-de-transporte-rodoviario-internac.md",
+      "tags": [
+        "documentos-de-transporte-internacional",
+        "transporte",
+        "rodoviario",
+        "internacional",
+        "conhecimento",
+        "utilizado"
+      ],
+      "palavras_chave": [
+        "transporte",
+        "rodoviario",
+        "internacional",
+        "conhecimento",
+        "utilizado",
+        "especialmente",
+        "importacoes",
+        "paises",
+        "mercosul",
+        "argentina"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/documentos-de-transporte-internacional/3-4-outros-documentos-de-instrucao-do-despacho",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE III — DOCUMENTOS DE TRANSPORTE INTERNACIONAL",
+      "subtema": "3.4 Outros Documentos de Instrução do Despacho",
+      "arquivo": "manuais/importacao/documentos-de-transporte-internacional/3-4-outros-documentos-de-instrucao-do-despacho.md",
+      "tags": [
+        "documentos-de-transporte-internacional",
+        "outros",
+        "documentos",
+        "instrucao",
+        "despacho"
+      ],
+      "palavras_chave": [
+        "outros",
+        "documentos",
+        "instrucao",
+        "despacho"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/origem-de-mercadorias-e-acordos-preferenciais/4-1-conceito-de-origem",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — ORIGEM DE MERCADORIAS E ACORDOS PREFERENCIAIS",
+      "subtema": "4.1 Conceito de Origem",
+      "arquivo": "manuais/importacao/origem-de-mercadorias-e-acordos-preferenciais/4-1-conceito-de-origem.md",
+      "tags": [
+        "origem-de-mercadorias-e-acordos-preferenciais",
+        "origem",
+        "fins",
+        "preferencial",
+        "conceito",
+        "mercadoria"
+      ],
+      "palavras_chave": [
+        "origem",
+        "fins",
+        "preferencial",
+        "conceito",
+        "mercadoria",
+        "determina",
+        "pais",
+        "vinculo",
+        "economico",
+        "aplicacao"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/origem-de-mercadorias-e-acordos-preferenciais/4-2-regras-de-origem-no-mercosul",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — ORIGEM DE MERCADORIAS E ACORDOS PREFERENCIAIS",
+      "subtema": "4.2 Regras de Origem no Mercosul",
+      "arquivo": "manuais/importacao/origem-de-mercadorias-e-acordos-preferenciais/4-2-regras-de-origem-no-mercosul.md",
+      "tags": [
+        "origem-de-mercadorias-e-acordos-preferenciais",
+        "mercosul",
+        "produto",
+        "regras",
+        "origem",
+        "tarifaria"
+      ],
+      "palavras_chave": [
+        "mercosul",
+        "produto",
+        "regras",
+        "origem",
+        "tarifaria",
+        "produtos",
+        "transformacao",
+        "final",
+        "originarios",
+        "valor"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/origem-de-mercadorias-e-acordos-preferenciais/4-3-acordo-de-complementacao-economica-ace-aladi",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — ORIGEM DE MERCADORIAS E ACORDOS PREFERENCIAIS",
+      "subtema": "4.3 Acordo de Complementação Econômica (ACE) — ALADI",
+      "arquivo": "manuais/importacao/origem-de-mercadorias-e-acordos-preferenciais/4-3-acordo-de-complementacao-economica-ace-aladi.md",
+      "tags": [
+        "origem-de-mercadorias-e-acordos-preferenciais",
+        "aladi",
+        "mercosul",
+        "certificado",
+        "origem",
+        "formulario"
+      ],
+      "palavras_chave": [
+        "aladi",
+        "mercosul",
+        "certificado",
+        "origem",
+        "formulario",
+        "acordo",
+        "complementacao",
+        "economica",
+        "ambito",
+        "associacao"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/origem-de-mercadorias-e-acordos-preferenciais/4-4-acordo-mercosul-uniao-europeia",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IV — ORIGEM DE MERCADORIAS E ACORDOS PREFERENCIAIS",
+      "subtema": "4.4 Acordo Mercosul-União Europeia",
+      "arquivo": "manuais/importacao/origem-de-mercadorias-e-acordos-preferenciais/4-4-acordo-mercosul-uniao-europeia.md",
+      "tags": [
+        "origem-de-mercadorias-e-acordos-preferenciais",
+        "acordo",
+        "mercosul",
+        "uniao",
+        "europeia",
+        "comercial"
+      ],
+      "palavras_chave": [
+        "acordo",
+        "mercosul",
+        "uniao",
+        "europeia",
+        "comercial",
+        "concluido",
+        "tecnicamente",
+        "ainda",
+        "aguarda",
+        "ratificacao"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/antidumping-e-medidas-de-defesa-comercial/5-1-conceito-de-dumping",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — ANTIDUMPING E MEDIDAS DE DEFESA COMERCIAL",
+      "subtema": "5.1 Conceito de Dumping",
+      "arquivo": "manuais/importacao/antidumping-e-medidas-de-defesa-comercial/5-1-conceito-de-dumping.md",
+      "tags": [
+        "antidumping-e-medidas-de-defesa-comercial",
+        "dumping",
+        "preco",
+        "pais",
+        "acordo",
+        "conceito"
+      ],
+      "palavras_chave": [
+        "dumping",
+        "preco",
+        "pais",
+        "acordo",
+        "conceito",
+        "pratica",
+        "exportar",
+        "produto",
+        "inferior",
+        "valor"
+      ],
+      "normas_citadas": [
+        "Decreto-8.058/2013"
+      ]
+    },
+    {
+      "id": "importacao/antidumping-e-medidas-de-defesa-comercial/5-2-medidas-antidumping",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — ANTIDUMPING E MEDIDAS DE DEFESA COMERCIAL",
+      "subtema": "5.2 Medidas Antidumping",
+      "arquivo": "manuais/importacao/antidumping-e-medidas-de-defesa-comercial/5-2-medidas-antidumping.md",
+      "tags": [
+        "antidumping-e-medidas-de-defesa-comercial",
+        "antidumping",
+        "investigacao",
+        "medida",
+        "medidas",
+        "mdic"
+      ],
+      "palavras_chave": [
+        "antidumping",
+        "investigacao",
+        "medida",
+        "medidas",
+        "mdic",
+        "decom",
+        "produto",
+        "dano",
+        "meses",
+        "prorrogavel"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/antidumping-e-medidas-de-defesa-comercial/5-3-medidas-de-salvaguarda",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — ANTIDUMPING E MEDIDAS DE DEFESA COMERCIAL",
+      "subtema": "5.3 Medidas de Salvaguarda",
+      "arquivo": "manuais/importacao/antidumping-e-medidas-de-defesa-comercial/5-3-medidas-de-salvaguarda.md",
+      "tags": [
+        "antidumping-e-medidas-de-defesa-comercial",
+        "importacoes",
+        "aumento",
+        "medidas",
+        "salvaguarda",
+        "salvaguardas"
+      ],
+      "palavras_chave": [
+        "importacoes",
+        "aumento",
+        "medidas",
+        "salvaguarda",
+        "salvaguardas",
+        "temporarias",
+        "restricao",
+        "tarifario",
+        "cotas",
+        "aplicadas"
+      ],
+      "normas_citadas": [
+        "Decreto-1.751/1995"
+      ]
+    },
+    {
+      "id": "importacao/antidumping-e-medidas-de-defesa-comercial/5-4-medidas-compensatorias-antisubsidio",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE V — ANTIDUMPING E MEDIDAS DE DEFESA COMERCIAL",
+      "subtema": "5.4 Medidas Compensatórias (Antisubsídio)",
+      "arquivo": "manuais/importacao/antidumping-e-medidas-de-defesa-comercial/5-4-medidas-compensatorias-antisubsidio.md",
+      "tags": [
+        "antidumping-e-medidas-de-defesa-comercial",
+        "subsidio",
+        "decreto",
+        "medidas",
+        "compensatorias",
+        "antisubsidio"
+      ],
+      "palavras_chave": [
+        "subsidio",
+        "decreto",
+        "medidas",
+        "compensatorias",
+        "antisubsidio",
+        "aplicadas",
+        "produto",
+        "importado",
+        "beneficia",
+        "concedido"
+      ],
+      "normas_citadas": [
+        "Decreto-1.751/1995",
+        "Decreto-8.058/2013"
+      ]
+    },
+    {
+      "id": "importacao/zonas-francas-e-areas-especiais/6-1-zona-franca-de-manaus-zfm",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — ZONAS FRANCAS E ÁREAS ESPECIAIS",
+      "subtema": "6.1 Zona Franca de Manaus (ZFM)",
+      "arquivo": "manuais/importacao/zonas-francas-e-areas-especiais/6-1-zona-franca-de-manaus-zfm.md",
+      "tags": [
+        "zonas-francas-e-areas-especiais",
+        "produtos",
+        "manaus",
+        "importacao",
+        "zona",
+        "franca"
+      ],
+      "palavras_chave": [
+        "produtos",
+        "manaus",
+        "importacao",
+        "zona",
+        "franca",
+        "brasil",
+        "isencao",
+        "area",
+        "livre",
+        "comercio"
+      ],
+      "normas_citadas": [
+        "Lei-288/1967",
+        "Decreto-Lei-288/1967"
+      ]
+    },
+    {
+      "id": "importacao/zonas-francas-e-areas-especiais/6-2-zonas-de-processamento-de-exportacao-zpe",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — ZONAS FRANCAS E ÁREAS ESPECIAIS",
+      "subtema": "6.2 Zonas de Processamento de Exportação (ZPE)",
+      "arquivo": "manuais/importacao/zonas-francas-e-areas-especiais/6-2-zonas-de-processamento-de-exportacao-zpe.md",
+      "tags": [
+        "zonas-francas-e-areas-especiais",
+        "exportacao",
+        "zpes",
+        "producao",
+        "tributos",
+        "zonas"
+      ],
+      "palavras_chave": [
+        "exportacao",
+        "zpes",
+        "producao",
+        "tributos",
+        "zonas",
+        "processamento",
+        "areas",
+        "livre",
+        "comercio",
+        "destinadas"
+      ],
+      "normas_citadas": [
+        "Lei-11.508/2007"
+      ]
+    },
+    {
+      "id": "importacao/zonas-francas-e-areas-especiais/6-3-area-de-livre-comercio-alc",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VI — ZONAS FRANCAS E ÁREAS ESPECIAIS",
+      "subtema": "6.3 Área de Livre Comércio (ALC)",
+      "arquivo": "manuais/importacao/zonas-francas-e-areas-especiais/6-3-area-de-livre-comercio-alc.md",
+      "tags": [
+        "zonas-francas-e-areas-especiais",
+        "comercio",
+        "livre",
+        "fronteira",
+        "area",
+        "alem"
+      ],
+      "palavras_chave": [
+        "comercio",
+        "livre",
+        "fronteira",
+        "area",
+        "alem",
+        "existem",
+        "outras",
+        "areas",
+        "amazonia",
+        "legal"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-1-importacao-por-conta-e-ordem-de-terceiros",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VII — IMPORTAÇÃO POR CONTA E ORDEM E POR ENCOMENDA",
+      "subtema": "7.1 Importação por Conta e Ordem de Terceiros",
+      "arquivo": "manuais/importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-1-importacao-por-conta-e-ordem-de-terceiros.md",
+      "tags": [
+        "importacao-por-conta-e-ordem-e-por-encomenda",
+        "adquirente",
+        "importacao",
+        "conta",
+        "empresa",
+        "ordem"
+      ],
+      "palavras_chave": [
+        "adquirente",
+        "importacao",
+        "conta",
+        "empresa",
+        "ordem",
+        "trading",
+        "nome",
+        "terceiros",
+        "company",
+        "despachante"
+      ],
+      "normas_citadas": [
+        "IN-SRF-225/2002"
+      ]
+    },
+    {
+      "id": "importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-2-importacao-por-encomenda",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VII — IMPORTAÇÃO POR CONTA E ORDEM E POR ENCOMENDA",
+      "subtema": "7.2 Importação por Encomenda",
+      "arquivo": "manuais/importacao/importacao-por-conta-e-ordem-e-por-encomenda/7-2-importacao-por-encomenda.md",
+      "tags": [
+        "importacao-por-conta-e-ordem-e-por-encomenda",
+        "trading",
+        "importacao",
+        "encomendante",
+        "encomenda",
+        "importadora"
+      ],
+      "palavras_chave": [
+        "trading",
+        "importacao",
+        "encomendante",
+        "encomenda",
+        "importadora",
+        "mercadoria",
+        "recursos",
+        "proprios",
+        "empresa",
+        "adquire"
+      ],
+      "normas_citadas": [
+        "IN-SRF-634/2006"
+      ]
+    },
+    {
+      "id": "importacao/revisao-aduaneira-pos-desembaraco/8-1-conceito-e-base-legal",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VIII — REVISÃO ADUANEIRA PÓS-DESEMBARAÇO",
+      "subtema": "8.1 Conceito e Base Legal",
+      "arquivo": "manuais/importacao/revisao-aduaneira-pos-desembaraco/8-1-conceito-e-base-legal.md",
+      "tags": [
+        "revisao-aduaneira-pos-desembaraco",
+        "base",
+        "legal",
+        "aduaneiro",
+        "conceito",
+        "revisao"
+      ],
+      "palavras_chave": [
+        "base",
+        "legal",
+        "aduaneiro",
+        "conceito",
+        "revisao",
+        "aduaneira",
+        "procedimento",
+        "receita",
+        "federal",
+        "desembaraco"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "importacao/revisao-aduaneira-pos-desembaraco/8-2-prazo",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VIII — REVISÃO ADUANEIRA PÓS-DESEMBARAÇO",
+      "subtema": "8.2 Prazo",
+      "arquivo": "manuais/importacao/revisao-aduaneira-pos-desembaraco/8-2-prazo.md",
+      "tags": [
+        "revisao-aduaneira-pos-desembaraco",
+        "prazo",
+        "decadencial",
+        "revisao",
+        "aduaneira",
+        "realizada"
+      ],
+      "palavras_chave": [
+        "prazo",
+        "decadencial",
+        "revisao",
+        "aduaneira",
+        "realizada",
+        "anos",
+        "contados",
+        "data",
+        "registro",
+        "previsto"
+      ],
+      "normas_citadas": [
+        "Lei-5.172/1966"
+      ]
+    },
+    {
+      "id": "importacao/revisao-aduaneira-pos-desembaraco/8-3-principais-motivos-de-revisao",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VIII — REVISÃO ADUANEIRA PÓS-DESEMBARAÇO",
+      "subtema": "8.3 Principais Motivos de Revisão",
+      "arquivo": "manuais/importacao/revisao-aduaneira-pos-desembaraco/8-3-principais-motivos-de-revisao.md",
+      "tags": [
+        "revisao-aduaneira-pos-desembaraco",
+        "fiscal",
+        "incorreta",
+        "principais",
+        "motivos",
+        "revisao"
+      ],
+      "palavras_chave": [
+        "fiscal",
+        "incorreta",
+        "principais",
+        "motivos",
+        "revisao",
+        "classificacao",
+        "divergente",
+        "produto",
+        "real",
+        "subfaturamento"
+      ],
+      "normas_citadas": []
+    },
+    {
+      "id": "importacao/revisao-aduaneira-pos-desembaraco/8-4-procedimento",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE VIII — REVISÃO ADUANEIRA PÓS-DESEMBARAÇO",
+      "subtema": "8.4 Procedimento",
+      "arquivo": "manuais/importacao/revisao-aduaneira-pos-desembaraco/8-4-procedimento.md",
+      "tags": [
+        "revisao-aduaneira-pos-desembaraco",
+        "importador",
+        "documentos",
+        "oficio",
+        "tributo",
+        "procedimento"
+      ],
+      "palavras_chave": [
+        "importador",
+        "documentos",
+        "oficio",
+        "tributo",
+        "procedimento",
+        "notificacao",
+        "apresentar",
+        "complementares",
+        "prazo",
+        "resposta"
+      ],
+      "normas_citadas": [
+        "Decreto-70.235/1972"
+      ]
+    },
+    {
+      "id": "importacao/modalidades-especiais-de-importacao/9-1-importacao-de-servicos",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — MODALIDADES ESPECIAIS DE IMPORTAÇÃO",
+      "subtema": "9.1 Importação de Serviços",
+      "arquivo": "manuais/importacao/modalidades-especiais-de-importacao/9-1-importacao-de-servicos.md",
+      "tags": [
+        "modalidades-especiais-de-importacao",
+        "importacao",
+        "servicos",
+        "cambio",
+        "tomador",
+        "remessas"
+      ],
+      "palavras_chave": [
+        "importacao",
+        "servicos",
+        "cambio",
+        "tomador",
+        "remessas",
+        "cofins",
+        "paises",
+        "ocorre",
+        "prestador",
+        "sediado"
+      ],
+      "normas_citadas": [
+        "Lei-10.168/2000",
+        "Lei-10.865/2004"
+      ]
+    },
+    {
+      "id": "importacao/modalidades-especiais-de-importacao/9-2-importacao-de-bagagem",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — MODALIDADES ESPECIAIS DE IMPORTAÇÃO",
+      "subtema": "9.2 Importação de Bagagem",
+      "arquivo": "manuais/importacao/modalidades-especiais-de-importacao/9-2-importacao-de-bagagem.md",
+      "tags": [
+        "modalidades-especiais-de-importacao",
+        "bagagem",
+        "importacao",
+        "acompanhada",
+        "desacompanhada",
+        "pagamento"
+      ],
+      "palavras_chave": [
+        "bagagem",
+        "importacao",
+        "acompanhada",
+        "desacompanhada",
+        "pagamento",
+        "cota",
+        "isencao",
+        "chegada",
+        "equivalente",
+        "regulada"
+      ],
+      "normas_citadas": [
+        "IN-RFB-1.059/2010"
+      ]
+    },
+    {
+      "id": "importacao/modalidades-especiais-de-importacao/9-3-remessas-postais-e-encomendas-internacionais",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — MODALIDADES ESPECIAIS DE IMPORTAÇÃO",
+      "subtema": "9.3 Remessas Postais e Encomendas Internacionais",
+      "arquivo": "manuais/importacao/modalidades-especiais-de-importacao/9-3-remessas-postais-e-encomendas-internacionais.md",
+      "tags": [
+        "modalidades-especiais-de-importacao",
+        "pessoa",
+        "fisica",
+        "remessas",
+        "postais",
+        "encomendas"
+      ],
+      "palavras_chave": [
+        "pessoa",
+        "fisica",
+        "remessas",
+        "postais",
+        "encomendas",
+        "despacho",
+        "aduaneiro",
+        "sujeito",
+        "aliquota",
+        "internacionais"
+      ],
+      "normas_citadas": [
+        "IN-RFB-1.737/2017",
+        "IN-RFB-1.901/2019"
+      ]
+    },
+    {
+      "id": "importacao/modalidades-especiais-de-importacao/9-4-importacao-de-amostras-sem-valor-comercial",
+      "manual": "importacao",
+      "manual_titulo": "Manual de Importação",
+      "parte": "PARTE IX — MODALIDADES ESPECIAIS DE IMPORTAÇÃO",
+      "subtema": "9.4 Importação de Amostras Sem Valor Comercial",
+      "arquivo": "manuais/importacao/modalidades-especiais-de-importacao/9-4-importacao-de-amostras-sem-valor-comercial.md",
+      "tags": [
+        "modalidades-especiais-de-importacao",
+        "valor",
+        "amostras",
+        "comercial",
+        "importadas",
+        "sejam"
+      ],
+      "palavras_chave": [
+        "valor",
+        "amostras",
+        "comercial",
+        "importadas",
+        "sejam",
+        "importacao",
+        "mercadorias",
+        "gratuitamente",
+        "fins",
+        "analise"
+      ],
+      "normas_citadas": [
+        "Decreto-6.759/2009"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/admissao-temporaria/at-1-conceito-suspensao-total",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE II — ADMISSÃO TEMPORÁRIA",
+      "subtema": "2.1 Admissão Temporária com Suspensão Total — Conceito, Tributos e Hipóteses",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/admissao-temporaria/at-1-conceito-suspensao-total.md",
+      "tags": [
+        "admissao-temporaria",
+        "suspensao-total",
+        "conceito",
+        "tributos-suspensos",
+        "hipoteses",
+        "DI",
+        "Duimp",
+        "DSI"
+      ],
+      "palavras_chave": [
+        "admissão temporária",
+        "suspensão total de tributos",
+        "bens importados temporariamente",
+        "II suspenso",
+        "IPI suspenso",
+        "PIS COFINS importação suspensa",
+        "ICMS admissão temporária",
+        "DI declaração de importação AT",
+        "Duimp admissão temporária",
+        "DSI formulário",
+        "concessão automática",
+        "procedimentos simplificados",
+        "Carnê ATA",
+        "IN RFB 1600"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-6759-2009",
+        "Lei-10865-2004",
+        "Lei-10893-2004",
+        "IN-RFB-1600-2015",
+        "IN-SRF-611-2006",
+        "Convênio-ICMS-58-1999"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/admissao-temporaria/at-2-prazo-concessao-extincao",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE II — ADMISSÃO TEMPORÁRIA",
+      "subtema": "2.2 Admissão Temporária — Prazo, Concessão, Prorrogação e Extinção",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/admissao-temporaria/at-2-prazo-concessao-extincao.md",
+      "tags": [
+        "admissao-temporaria",
+        "prazo",
+        "concessao",
+        "prorrogacao",
+        "extincao",
+        "descumprimento",
+        "vigencia"
+      ],
+      "palavras_chave": [
+        "prazo admissão temporária",
+        "vigência do regime AT",
+        "prorrogação admissão temporária",
+        "até 5 anos AT",
+        "extinção admissão temporária",
+        "reexportação",
+        "despacho para consumo",
+        "destruição",
+        "transferência de regime",
+        "descumprimento AT",
+        "multa descumprimento admissão temporária",
+        "tributos suspensos cobrados descumprimento"
+      ],
+      "normas_citadas": [
+        "Decreto-6759-2009",
+        "Portaria-MF-320-2006",
+        "IN-RFB-1600-2015",
+        "IN-RFB-1602-2015",
+        "IN-RFB-2036-2021",
+        "Lei-9474-1997",
+        "Decreto-10950-2022"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/admissao-temporaria/at-3-utilizacao-economica-e-aperfeicoamento-ativo",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE II — ADMISSÃO TEMPORÁRIA",
+      "subtema": "2.3 Admissão Temporária para Utilização Econômica e Aperfeiçoamento Ativo",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/admissao-temporaria/at-3-utilizacao-economica-e-aperfeicoamento-ativo.md",
+      "tags": [
+        "admissao-temporaria",
+        "utilizacao-economica",
+        "pagamento-proporcional",
+        "dispensa-pagamento",
+        "aperfeicoamento-ativo",
+        "conserto-reparo",
+        "industrializacao"
+      ],
+      "palavras_chave": [
+        "admissão temporária utilização econômica",
+        "pagamento proporcional tributos",
+        "1% por mês tributos AT",
+        "aperfeiçoamento ativo",
+        "conserto reparo bens estrangeiros",
+        "beneficiamento montagem recondicionamento",
+        "AFRMM pagamento proporcional",
+        "ICMS redução base cálculo AT",
+        "dispensa pagamento tributos AT",
+        "Repetro utilização econômica",
+        "Zona Franca Manaus AT",
+        "GNL gás natural liquefeito AT",
+        "operações de aperfeiçoamento ativo"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-Lei-288-1967",
+        "Lei-9430-1996",
+        "Lei-10865-2004",
+        "Lei-10893-2004",
+        "Decreto-6759-2009",
+        "IN-RFB-1600-2015",
+        "Convênio-ICMS-58-1999"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/entreposto-aduaneiro/ead-1-disposicoes-gerais",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE IV — ENTREPOSTO ADUANEIRO",
+      "subtema": "4.1 Entreposto Aduaneiro — Disposições Gerais, Aspectos Tributários e Vedações",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/entreposto-aduaneiro/ead-1-disposicoes-gerais.md",
+      "tags": [
+        "entreposto-aduaneiro",
+        "suspensao-tributos",
+        "aspectos-tributarios",
+        "vedacoes",
+        "AFRMM",
+        "EAD-importacao",
+        "EAD-exportacao",
+        "recinto-alfandegado"
+      ],
+      "palavras_chave": [
+        "entreposto aduaneiro conceito",
+        "suspensão II IPI PIS COFINS AFRMM entreposto",
+        "entreposto aduaneiro importação",
+        "entreposto aduaneiro exportação",
+        "isenção ICMS entreposto",
+        "vedações entreposto aduaneiro",
+        "mercadoria usada entreposto",
+        "pessoa física entreposto vedada",
+        "porto seco",
+        "evento desportivo entreposto isenção",
+        "regime comum entreposto exportação",
+        "regime extraordinário entreposto exportação",
+        "IN SRF 241/2002"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-Lei-1455-1976",
+        "Lei-8218-1991",
+        "Lei-8383-1991",
+        "Lei-10336-2001",
+        "Lei-10865-2004",
+        "Lei-10893-2004",
+        "Lei-11488-2007",
+        "Decreto-6759-2009",
+        "IN-SRF-241-2002",
+        "Convênio-ICMS-10-1981"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/entreposto-aduaneiro/ead-2-importacao-exportacao",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE IV — ENTREPOSTO ADUANEIRO",
+      "subtema": "4.2 Entreposto Aduaneiro — Importação e Exportação: Modalidades, Prazos e Extinção",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/entreposto-aduaneiro/ead-2-importacao-exportacao.md",
+      "tags": [
+        "entreposto-aduaneiro",
+        "EAD-importacao",
+        "EAD-exportacao",
+        "recinto-alfandegado-credenciado",
+        "recinto-alfandegado-eventos",
+        "local-nao-alfandegado",
+        "regime-comum",
+        "regime-extraordinario",
+        "prazo",
+        "extincao",
+        "Repetro"
+      ],
+      "palavras_chave": [
+        "entreposto aduaneiro importação recinto alfandegado",
+        "entreposto aduaneiro eventos feira congresso",
+        "entreposto aduaneiro petróleo local não alfandegado",
+        "entreposto aduaneiro exportação regime comum",
+        "entreposto aduaneiro exportação regime extraordinário",
+        "benefícios fiscais exportação antes embarque",
+        "prazo entreposto aduaneiro",
+        "extinção entreposto aduaneiro",
+        "despacho consumo entreposto",
+        "reexportação entreposto",
+        "industrialização entreposto",
+        "prazo prorrogação entreposto aduaneiro"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-Lei-1455-1976",
+        "Decreto-6759-2009",
+        "IN-SRF-241-2002",
+        "IN-SRF-513-2005"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/exportacao-temporaria/et-1-exportacao-temporaria-simples",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE III — EXPORTAÇÃO TEMPORÁRIA",
+      "subtema": "3.1 Exportação Temporária — Conceito, Hipóteses, Prazo e Extinção",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/exportacao-temporaria/et-1-exportacao-temporaria-simples.md",
+      "tags": [
+        "exportacao-temporaria",
+        "suspensao-imposto-exportacao",
+        "reimportacao",
+        "prazo",
+        "extincao",
+        "descumprimento",
+        "DU-E",
+        "concessao-automatica"
+      ],
+      "palavras_chave": [
+        "exportação temporária conceito",
+        "suspensão imposto de exportação",
+        "reimportação mesmo estado",
+        "hipóteses exportação temporária",
+        "bens destinados a eventos",
+        "arrendamento operacional exportação temporária",
+        "prazo exportação temporária",
+        "prorrogação exportação temporária",
+        "extinção exportação temporária",
+        "descumprimento exportação temporária",
+        "multa descumprimento 5%",
+        "DU-E exportação temporária",
+        "concessão automática exportação temporária",
+        "Carnê ATA encerrado"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-Lei-1578-1977",
+        "Lei-9430-1996",
+        "Lei-10833-2003",
+        "Lei-10865-2004",
+        "Decreto-6759-2009",
+        "IN-RFB-1600-2015",
+        "IN-RFB-1602-2015",
+        "IN-RFB-1702-2017"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/exportacao-temporaria/et-2-aperfeicoamento-passivo",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE III — EXPORTAÇÃO TEMPORÁRIA",
+      "subtema": "3.2 Exportação Temporária para Aperfeiçoamento Passivo",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/exportacao-temporaria/et-2-aperfeicoamento-passivo.md",
+      "tags": [
+        "exportacao-temporaria",
+        "aperfeicoamento-passivo",
+        "valor-agregado",
+        "produto-resultante",
+        "operacoes-industrializacao",
+        "tributos-valor-agregado"
+      ],
+      "palavras_chave": [
+        "exportação temporária aperfeiçoamento passivo",
+        "produto resultante importação",
+        "valor agregado exterior",
+        "tributos sobre valor agregado",
+        "operações aperfeiçoamento passivo",
+        "beneficiamento exterior",
+        "conserto reparo exterior",
+        "montagem exterior",
+        "base de cálculo produto resultante",
+        "suspensão imposto exportação aperfeiçoamento passivo",
+        "reimportação produto resultante",
+        "prazo aperfeiçoamento passivo"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-Lei-1578-1977",
+        "Decreto-6759-2009",
+        "IN-RFB-1600-2015",
+        "IN-RFB-1702-2017"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/outros-regimes/depositos-1-afiancado-especial-dac-franco",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE VI — OUTROS REGIMES",
+      "subtema": "6.5 Depósitos Especiais — Afiançado, Especial, Alfandegado Certificado e Franco",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/outros-regimes/depositos-1-afiancado-especial-dac-franco.md",
+      "tags": [
+        "depósito-afiançado",
+        "depósito-especial",
+        "depósito-alfandegado-certificado",
+        "DAC",
+        "depósito-franco",
+        "suspensão-tributos",
+        "estocagem",
+        "embarcação",
+        "aeronave",
+        "reposição",
+        "exportação"
+      ],
+      "palavras_chave": [
+        "depósito afiançado conceito embarcação aeronave",
+        "depósito afiançado suspensão tributos manutenção reparo",
+        "depósito especial peças reposição veículos equipamentos",
+        "depósito alfandegado certificado DAC exportação benefícios fiscais",
+        "depósito franco mercadoria estrangeira trânsito",
+        "depósito franco recinto alfandegado uso público",
+        "IN SRF 409 2004 depósito afiançado",
+        "IN SRF 386 2004 depósito especial",
+        "IN SRF 232 2002 DAC",
+        "IN SRF 257 2002 depósito franco",
+        "Regulamento Aduaneiro arts 476 480 488 499"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-6759-2009",
+        "IN-SRF-232-2002",
+        "IN-SRF-257-2002",
+        "IN-SRF-386-2004",
+        "IN-SRF-409-2004"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/outros-regimes/drawback-1-conceito-modalidades-controle",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE VI — OUTROS REGIMES",
+      "subtema": "6.2 Drawback — Conceito, Modalidades, Tributos e Controle",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/outros-regimes/drawback-1-conceito-modalidades-controle.md",
+      "tags": [
+        "drawback",
+        "drawback-suspensão",
+        "drawback-isenção",
+        "drawback-restituição",
+        "insumos-exportação",
+        "suspensão-tributos",
+        "isenção-tributos",
+        "ato-concessório",
+        "SISCOMEX"
+      ],
+      "palavras_chave": [
+        "drawback conceito incentivo exportação",
+        "drawback suspensão insumos exportados",
+        "drawback isenção reposição matéria-prima",
+        "drawback restituição tributos",
+        "drawback genérico",
+        "drawback solidário",
+        "drawback sem cobertura cambial",
+        "drawback fornecimento mercado interno",
+        "drawback intermediário",
+        "drawback embarcação",
+        "II IPI ICMS AFRMM suspensão drawback",
+        "ato concessório drawback",
+        "SISCOMEX sistema drawback eletrônico",
+        "vedações drawback petróleo ZFM",
+        "Decreto-Lei 37 1966 drawback"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Lei-8402-1992",
+        "Decreto-6759-2009"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/outros-regimes/loja-franca-1-conceito-beneficios-concessao",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE VI — OUTROS REGIMES",
+      "subtema": "6.3 Loja Franca — Conceito, Beneficiários, Benefícios e Concessão",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/outros-regimes/loja-franca-1-conceito-beneficios-concessao.md",
+      "tags": [
+        "loja-franca",
+        "duty-free",
+        "zona-primária",
+        "aeroporto",
+        "porto",
+        "fronteira-terrestre",
+        "suspensão-tributos",
+        "isenção-tributos",
+        "passageiro-viagem-internacional"
+      ],
+      "palavras_chave": [
+        "loja franca duty free conceito",
+        "loja franca aeroporto porto",
+        "loja franca fronteira terrestre cidades gêmeas",
+        "quem pode comprar loja franca",
+        "limite compra loja franca passageiro",
+        "isenção tributos loja franca",
+        "suspensão tributos importação loja franca",
+        "admissão consignação loja franca",
+        "concessão loja franca requisitos",
+        "missão diplomática loja franca",
+        "tripulante passageiro loja franca",
+        "IN RFB 2075 2022",
+        "Portaria MF 112 2008",
+        "Portaria MF 307 2014"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-6759-2009",
+        "IN-RFB-2075-2022",
+        "Portaria-MF-112-2008",
+        "Portaria-MF-307-2014"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/outros-regimes/recof-1-conceito-habilitacao-condicoes",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE VI — OUTROS REGIMES",
+      "subtema": "6.1 RECOF e RECOF-SPED — Conceito, Habilitação e Condições de Manutenção",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/outros-regimes/recof-1-conceito-habilitacao-condicoes.md",
+      "tags": [
+        "recof",
+        "recof-sped",
+        "entreposto-industrial",
+        "industrialização",
+        "suspensão-tributos",
+        "exportação-mínima",
+        "habilitação",
+        "EFD",
+        "bloco-K"
+      ],
+      "palavras_chave": [
+        "RECOF conceito entreposto industrial",
+        "RECOF-SPED entreposto industrial",
+        "importação insumos industrialização exportação",
+        "suspensão tributos RECOF",
+        "exportar 50% valor importado RECOF",
+        "70% mercadorias estrangeiras industrialização",
+        "habilitação RECOF requisitos",
+        "EFD ICMS IPI RECOF Sped",
+        "bloco K controle produção estoque",
+        "compartilhamento RECOF",
+        "isenção condição resolutiva entreposto industrial",
+        "IN RFB 2126 2022"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Lei-5172-1966",
+        "Lei-9430-1996",
+        "Lei-10833-2003",
+        "Lei-10865-2004",
+        "Decreto-6759-2009",
+        "IN-RFB-1984-2020",
+        "IN-RFB-2126-2022",
+        "Portaria-Coana-114-2022"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/outros-regimes/repex-reporto-1-conceito-habilitacao-extincao",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE VI — OUTROS REGIMES",
+      "subtema": "6.4 REPEX e REPORTO — Conceito, Habilitação e Extinção",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/outros-regimes/repex-reporto-1-conceito-habilitacao-extincao.md",
+      "tags": [
+        "repex",
+        "reporto",
+        "petróleo-derivados",
+        "porto",
+        "operador-portuário",
+        "suspensão-tributos",
+        "isenção-tributos",
+        "habilitação",
+        "ANP"
+      ],
+      "palavras_chave": [
+        "REPEX conceito petróleo derivados exportação",
+        "REPEX importação petróleo suspensão tributos",
+        "REPEX prazo 90 dias prorrogação",
+        "REPEX extinção exportação reexportação",
+        "REPEX habilitação ANP Petrobras",
+        "REPORTO conceito porto ferroviário modernização",
+        "REPORTO beneficiários operador portuário concessionário",
+        "REPORTO suspensão II IPI PIS COFINS",
+        "REPORTO isenção 5 anos ativo imobilizado",
+        "REPORTO descumprimento multa 50%",
+        "REPORTO habilitação ADE",
+        "IN SRF 05 2001 REPEX",
+        "IN RFB 1370 2013 REPORTO",
+        "Lei 11033 2004 REPORTO"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Lei-10865-2004",
+        "Lei-11033-2004",
+        "Lei-11774-2008",
+        "Lei-12715-2012",
+        "Decreto-6759-2009",
+        "Decreto-6582-2008",
+        "IN-SRF-05-2001",
+        "IN-RFB-1370-2013",
+        "IN-RFB-1644-2016"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/repetro/repetro-1-disposicoes-gerais",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE V — REPETRO",
+      "subtema": "5.1 Repetro-Sped — Disposições Gerais, Modalidades e Conceitos",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/repetro/repetro-1-disposicoes-gerais.md",
+      "tags": [
+        "repetro",
+        "repetro-sped",
+        "petróleo",
+        "gás-natural",
+        "admissão-temporária",
+        "utilização-econômica",
+        "suspensão-tributos",
+        "repetro-permanente",
+        "repetro-temporário",
+        "repetro-nacional"
+      ],
+      "palavras_chave": [
+        "repetro conceito petróleo gás natural",
+        "repetro-sped modalidades",
+        "repetro-permanente importação definitiva suspensão total",
+        "repetro-temporário dispensa pagamento proporcional",
+        "repetro-temporário pagamento proporcional",
+        "repetro-nacional industrialização",
+        "bens destinados pesquisa lavra jazidas petróleo",
+        "plataforma embarcação apoio offshore",
+        "regime tributário especial petróleo",
+        "IN RFB 1781 2017",
+        "Lei 13586 2017"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Lei-9430-1996",
+        "Lei-9478-1997",
+        "Lei-9432-1997",
+        "Lei-12276-2010",
+        "Lei-12351-2010",
+        "Lei-13586-2017",
+        "Decreto-6759-2009",
+        "Decreto-9128-2017",
+        "Decreto-9537-2018",
+        "IN-RFB-1415-2013",
+        "IN-RFB-1600-2015",
+        "IN-RFB-1781-2017",
+        "IN-RFB-1901-2019"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/repetro/repetro-2-habilitacao-requisitos-prazos-extincao",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE V — REPETRO",
+      "subtema": "5.2 Repetro-Sped — Habilitação, Requisitos, Prazos e Extinção",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/repetro/repetro-2-habilitacao-requisitos-prazos-extincao.md",
+      "tags": [
+        "repetro",
+        "repetro-sped",
+        "habilitação",
+        "requisitos",
+        "prazos",
+        "extinção",
+        "repetro-temporário",
+        "repetro-permanente",
+        "garantia",
+        "termo-de-responsabilidade"
+      ],
+      "palavras_chave": [
+        "habilitação repetro RFB",
+        "requisitos repetro temporário",
+        "prazo repetro temporário",
+        "prazo repetro permanente",
+        "extinção repetro reexportação",
+        "extinção repetro despacho consumo",
+        "garantia repetro termo responsabilidade",
+        "bens admissíveis Anexo I II IN 1781",
+        "Siscomex repetro aplicação",
+        "contrato afretamento repetro",
+        "dispensa proporcional repetro temporário",
+        "tributos suspensos repetro importação"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Lei-9430-1996",
+        "Lei-13586-2017",
+        "Decreto-6759-2009",
+        "IN-RFB-1781-2017",
+        "IN-RFB-1901-2019"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/repetro/repetro-3-industrializacao",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE V — REPETRO",
+      "subtema": "5.3 Repetro-Industrialização — Disposições Gerais, Habilitação, Prazos e Extinção",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/repetro/repetro-3-industrializacao.md",
+      "tags": [
+        "repetro",
+        "repetro-industrializacao",
+        "repetro-nacional",
+        "industrialização",
+        "cadeia-produtiva",
+        "petróleo",
+        "suspensão-tributos",
+        "aquisição-mercado-interno",
+        "importação-insumos"
+      ],
+      "palavras_chave": [
+        "repetro industrialização conceito",
+        "repetro nacional industrialização",
+        "IN RFB 1901 2019",
+        "aquisição mercado interno repetro",
+        "importação insumos repetro industrialização",
+        "suspensão PIS COFINS repetro nacional",
+        "suspensão II IPI insumos repetro",
+        "construção embarcação plataforma repetro",
+        "montagem fabricação bens petróleo repetro",
+        "habilitação repetro industrialização",
+        "prazo repetro industrialização",
+        "extinção repetro industrialização entrega",
+        "cadeia produtiva offshore"
+      ],
+      "normas_citadas": [
+        "Lei-9430-1996",
+        "Lei-13586-2017",
+        "Decreto-6759-2009",
+        "Decreto-9537-2018",
+        "IN-RFB-1781-2017",
+        "IN-RFB-1901-2019"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/transito-aduaneiro/transito-1-conceitos-e-regime",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE I — TRÂNSITO ADUANEIRO",
+      "subtema": "1.1 Conceitos e Regime de Trânsito Aduaneiro",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/transito-aduaneiro/transito-1-conceitos-e-regime.md",
+      "tags": [
+        "transito-aduaneiro",
+        "conceitos",
+        "definicoes",
+        "regime",
+        "modalidades",
+        "suspensao-tributos",
+        "transito-de-importacao",
+        "transito-de-passagem",
+        "transito-de-exportacao"
+      ],
+      "palavras_chave": [
+        "trânsito aduaneiro",
+        "regime especial",
+        "suspensão de tributos",
+        "local de origem",
+        "local de destino",
+        "unidade de origem",
+        "unidade de destino",
+        "modalidades de trânsito",
+        "trânsito de importação",
+        "trânsito de passagem",
+        "trânsito de exportação",
+        "DTA",
+        "MIC-DTA",
+        "TIF-DTA",
+        "DTAI",
+        "DAT",
+        "trânsito automático",
+        "trânsito escalonado",
+        "trânsito nacional",
+        "trânsito internacional"
+      ],
+      "normas_citadas": [
+        "Decreto-6759-2009",
+        "IN-SRF-248-2002",
+        "IN-RFB-1702-2017",
+        "IN-RFB-800-2007",
+        "Decreto-99704-1990"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/transito-aduaneiro/transito-2-infracoes-penalidades-sancoes",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE I — TRÂNSITO ADUANEIRO",
+      "subtema": "1.2 Infrações, Penalidades e Sanções no Trânsito Aduaneiro",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/transito-aduaneiro/transito-2-infracoes-penalidades-sancoes.md",
+      "tags": [
+        "transito-aduaneiro",
+        "infracoes",
+        "penalidades",
+        "multas",
+        "perdimento",
+        "sancoes-administrativas"
+      ],
+      "palavras_chave": [
+        "perdimento veículo trânsito",
+        "perdimento mercadoria trânsito",
+        "multa trânsito aduaneiro",
+        "desvio de rota",
+        "extravio mercadoria",
+        "violação lacre",
+        "sanção administrativa habilitação",
+        "suspensão habilitação trânsito",
+        "cancelamento habilitação trânsito",
+        "multa R$ 15.000",
+        "multa R$ 500 por dia atraso",
+        "código recolhimento 2185"
+      ],
+      "normas_citadas": [
+        "Decreto-Lei-37-1966",
+        "Decreto-Lei-1455-1976",
+        "Lei-10833-2003",
+        "Decreto-6759-2009",
+        "IN-SRF-248-2002"
+      ]
+    },
+    {
+      "id": "regimes-aduaneiros-especiais/transito-aduaneiro/transito-3-beneficiarios-transportadores-simplificado",
+      "manual": "regimes-aduaneiros-especiais",
+      "manual_titulo": "Regimes Aduaneiros Especiais",
+      "parte": "PARTE I — TRÂNSITO ADUANEIRO",
+      "subtema": "1.3 Beneficiários, Transportadores, Aspectos Tributários e Trânsito Simplificado",
+      "arquivo": "manuais/regimes-aduaneiros-especiais/transito-aduaneiro/transito-3-beneficiarios-transportadores-simplificado.md",
+      "tags": [
+        "transito-aduaneiro",
+        "beneficiarios",
+        "transportadores",
+        "transito-simplificado",
+        "aspectos-tributarios",
+        "vedacoes",
+        "OEA",
+        "TNTN",
+        "TNTI"
+      ],
+      "palavras_chave": [
+        "beneficiário trânsito aduaneiro",
+        "importador beneficiário DTA",
+        "exportador beneficiário DTA",
+        "OTM operador transporte multimodal",
+        "TNTN transportador nacional trânsito nacional",
+        "TNTI transportador nacional trânsito internacional",
+        "TETI transportador estrangeiro trânsito internacional",
+        "transportador aéreo trânsito",
+        "vedação trânsito aduaneiro",
+        "aspectos tributários trânsito",
+        "trânsito simplificado OEA",
+        "Portaria COANA 5/2021",
+        "dispensa etapas trânsito",
+        "monitoramento veículo trânsito simplificado"
+      ],
+      "normas_citadas": [
+        "Decreto-6759-2009",
+        "IN-SRF-248-2002",
+        "IN-SRF-570-2005",
+        "IN-RFB-800-2007",
+        "Portaria-COANA-5-2021"
+      ]
+    }
+  ]
+}

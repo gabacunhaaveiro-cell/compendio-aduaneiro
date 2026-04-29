@@ -1,0 +1,12 @@
+{
+  "snapshot": "2026-04-29",
+  "versao": "1.1.0",
+  "data_atualizacao": "2026-04-29",
+  "manuais_disponiveis": [
+    "importacao",
+    "regimes-aduaneiros-especiais"
+  ],
+  "index_url": "index.json",
+  "legislacoes_url": "legislacoes.json",
+  "observacao": "Snapshot do compendio aduaneiro. v1.1.0 adiciona 18 subtemas do manual de Regimes Aduaneiros Especiais (Transito, Admissao Temporaria, Exportacao Temporaria, Entreposto Aduaneiro, Repetro, RECOF, Drawback, Loja Franca, REPEX, REPORTO, Depositos)."
+}
